@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Notes/quotes.md",
+                "file": "04_Workflows/export_as_html_steps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quotes"
+              "title": "export_as_html_steps"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Notes/quotes.md",
+                "file": "04_Workflows/export_as_html_steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for quotes"
+              "title": "Backlinks for export_as_html_steps"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Notes/quotes.md",
+                "file": "04_Workflows/export_as_html_steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from quotes"
+              "title": "Outgoing links from export_as_html_steps"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Notes/quotes.md",
+                "file": "04_Workflows/export_as_html_steps.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of quotes"
+              "title": "Outline of export_as_html_steps"
             }
           }
         ]
@@ -172,41 +172,41 @@
   },
   "active": "9eb0ee857d7beb8f",
   "lastOpenFiles": [
+    "00_Home/SETUP_COMPLETE.md",
+    "Welcome.md",
+    "04_Workflows/export_as_html_steps.md",
+    "site",
+    "assets/images/tree_of_life_sketch.png.txt",
+    "assets/images/diagram_ai_flow.png.txt",
+    "assets/images/profile.jpg.txt",
+    "assets/images/banner.png.txt",
+    "06_Public/showcase/q_and_a.md",
+    "06_Public/showcase/presentation_outline.md",
+    "06_Public/showcase/example_thread.md",
+    "assets/css/theme-overrides.css",
+    "06_Public/showcase/design_showcase.md",
+    "06_Public/published_notes_index.md",
+    "06_Public/contact.md",
+    "assets/css/custom.css",
+    "05_Notes/quotes.md",
+    "05_Notes/quick_thoughts.md",
     "05_Notes/todo.md",
     "05_Notes/meeting_notes.md",
     "03_Research/Theology/romans_8_commentary.md",
     "05_Notes/reading_list.md",
-    "05_Notes/quotes.md",
     "03_Research/Theology/marduk_and_tiamat.md",
     "04_Workflows/productivity_tips.md",
-    "04_Workflows/export_as_html_steps.md",
     "04_Workflows/github_sync_guide.md",
     "04_Workflows/obsidian_publish_workflow.md",
     "assets/css",
     "assets/images",
     "assets",
-    "06_Public/showcase",
-    "06_Public",
-    "05_Notes",
-    "HTML Page Test.html",
     "00_Home/folder structure map.md",
     "04_Workflows/n8n_automation_cheatsheet.md",
     "03_Research/Philosophy/ontology_of_light.md",
-    "docs",
     "03_Research/Philosophy/symbolic_language.md",
     "03_Research/Philosophy/stoic_virtue.md",
     "03_Research/Philosophy/metaphysics_of_identity.md",
-    "03_Research/Theology/kinsman_redeemer.md",
-    "00_Home/about.md",
-    "02_Projects/active_projects.md",
-    "02_Projects/index.md",
-    "03_Research/Theology/tree_of_life_genetics.md",
-    "03_Research/AI/retrieval_augmented_generation.md",
-    "03_Research/AI/prompt_engineering.md",
-    "03_Research/AI/model_comparison.md",
-    "03_Research/AI/llm_agents.md",
-    "02_Projects/Project_Phoenix/references.md",
-    "04_Workflows",
-    "03_Research/Philosophy"
+    "03_Research/Theology/kinsman_redeemer.md"
   ]
 }

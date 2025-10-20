@@ -1,0 +1,24 @@
+# Image Placeholder: banner.png
+
+**Recommended Specifications:**
+- Dimensions: 1200 x 300 pixels
+- Format: PNG
+- File size: < 500KB
+
+**Purpose:**
+Banner image for the vault header or landing page.
+
+**Design Suggestions:**
+- Clean, minimal design
+- Incorporates vault theme colors (blues, grays)
+- Could include text overlay with vault name/tagline
+- Professional, modern aesthetic
+
+**Alternative Options:**
+- Create in Figma/Canva
+- Use AI image generation (DALL-E, Midjourney)
+- Commission custom artwork
+- Use royalty-free stock photo
+
+**To Replace This Placeholder:**
+Simply place your actual banner.png image in this directory.

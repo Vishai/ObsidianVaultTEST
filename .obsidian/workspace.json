@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca42e070d2c6b0c",
+        "id": "34a6290be0247f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "9eb0ee857d7beb8f",
+            "id": "952e1423288d2d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/Untitled.md",
+                "file": "docs/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site/Untitled.md",
+                "file": "docs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "site/Untitled.md",
+                "file": "docs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site/Untitled.md",
+                "file": "docs/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,10 +170,19 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "9eb0ee857d7beb8f",
+  "active": "952e1423288d2d47",
   "lastOpenFiles": [
-    "assets/images/ToL.png",
+    "06_Public/published_notes_index.md",
+    "docs/Untitled.md",
+    "docs",
+    "00_Home/about.md",
+    "00_Home/changelog.md",
+    "00_Home/folder structure map.md",
+    "00_Home/index.md",
+    "00_Home/roadmap.md",
+    "00_Home/SETUP_COMPLETE.md",
     "site/Untitled.md",
+    "assets/images/ToL.png",
     "assets/images/tolFavicon2.png",
     "assets/images/tolFavicon.png",
     "04_Workflows/export_as_html_steps.md",
@@ -182,7 +191,6 @@
     "assets/images/profile.png",
     "treeOfLifeSacredGeometry.html",
     "assets/images/profile.jpg.png",
-    "00_Home/SETUP_COMPLETE.md",
     "Welcome.md",
     "site",
     "assets/images/tree_of_life_sketch.png.txt",
@@ -194,7 +202,6 @@
     "06_Public/showcase/example_thread.md",
     "assets/css/theme-overrides.css",
     "06_Public/showcase/design_showcase.md",
-    "06_Public/published_notes_index.md",
     "06_Public/contact.md",
     "assets/css/custom.css",
     "05_Notes/quotes.md",
@@ -207,12 +214,6 @@
     "04_Workflows/productivity_tips.md",
     "04_Workflows/github_sync_guide.md",
     "04_Workflows/obsidian_publish_workflow.md",
-    "assets/css",
-    "assets/images",
-    "00_Home/folder structure map.md",
-    "04_Workflows/n8n_automation_cheatsheet.md",
-    "03_Research/Philosophy/ontology_of_light.md",
-    "03_Research/Philosophy/symbolic_language.md",
-    "03_Research/Philosophy/stoic_virtue.md"
+    "assets/css"
   ]
 }

@@ -1,0 +1,127 @@
+/* Theme Overrides for Obsidian */
+
+/* Dark Mode Variables */
+.theme-dark {
+  --primary-color: #E1E4E8;
+  --text-color: #C9D1D9;
+  --background-color: #0D1117;
+  --sidebar-background: #161B22;
+  --border-color: #30363D;
+  --code-background: #161B22;
+}
+
+/* ==========================
+   Sidebar Styling
+   ========================== */
+.nav-folder-title,
+.nav-file-title {
+  padding: 0.5em 0.75em;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.nav-folder-title:hover,
+.nav-file-title:hover {
+  background-color: var(--sidebar-background);
+}
+
+/* ==========================
+   Editor Overrides
+   ========================== */
+.markdown-preview-view {
+  padding: 2em;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.markdown-source-view {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ==========================
+   Graph View
+   ========================== */
+.graph-view.color-fill {
+  color: var(--accent-color);
+}
+
+.graph-view.color-line {
+  color: var(--border-color);
+}
+
+/* ==========================
+   Tags
+   ========================== */
+.tag {
+  background-color: var(--code-background);
+  border: 1px solid var(--border-color);
+  padding: 0.2em 0.6em;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 500;
+}
+
+.tag:hover {
+  background-color: var(--accent-color);
+  color: white;
+  border-color: var(--accent-color);
+}
+
+/* ==========================
+   Search Results
+   ========================== */
+.search-result-file-title {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.search-result-file-match {
+  background-color: var(--code-background);
+  padding: 0.5em;
+  border-radius: 4px;
+  margin: 0.5em 0;
+}
+
+/* ==========================
+   Backlinks
+   ========================== */
+.backlink-pane {
+  padding: 1em;
+}
+
+.tree-item-self {
+  padding: 0.25em 0.5em;
+  border-radius: 4px;
+}
+
+/* ==========================
+   Custom Callouts
+   ========================== */
+.callout {
+  border-left: 4px solid var(--accent-color);
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+  background-color: var(--sidebar-background);
+}
+
+.callout[data-callout="warning"] {
+  border-color: #F39C12;
+}
+
+.callout[data-callout="danger"] {
+  border-color: var(--secondary-color);
+}
+
+.callout[data-callout="success"] {
+  border-color: #27AE60;
+}
+
+/* ==========================
+   Headings
+   ========================== */
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.3em;
+}

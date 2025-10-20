@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/Users/brandonarmstrong/Documents/HTML Page Test",
+    "exportPath": "/Users/brandonarmstrong/Documents/HTML Page Test/docs",
     "filesToExport": [
       "all"
     ],

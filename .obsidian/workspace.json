@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Research/Theology/marduk_and_tiamat.md",
+                "file": "05_Notes/quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "marduk_and_tiamat"
-            }
-          }
-        ]
-      },
-      {
-        "id": "865634f9323f40b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a23081711cc35bbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Home/folder structure map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "folder structure map"
+              "title": "quotes"
             }
           }
         ]
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Home/folder structure map.md",
+                "file": "05_Notes/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for folder structure map"
+              "title": "Backlinks for quotes"
             }
           },
           {
@@ -133,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Home/folder structure map.md",
+                "file": "05_Notes/quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from folder structure map"
+              "title": "Outgoing links from quotes"
             }
           },
           {
@@ -162,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Home/folder structure map.md",
+                "file": "05_Notes/quotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of folder structure map"
+              "title": "Outline of quotes"
             }
           }
         ]
@@ -190,43 +170,43 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "d405333e4ebb3684",
+  "active": "9eb0ee857d7beb8f",
   "lastOpenFiles": [
+    "05_Notes/todo.md",
+    "05_Notes/meeting_notes.md",
+    "03_Research/Theology/romans_8_commentary.md",
+    "05_Notes/reading_list.md",
+    "05_Notes/quotes.md",
+    "03_Research/Theology/marduk_and_tiamat.md",
+    "04_Workflows/productivity_tips.md",
+    "04_Workflows/export_as_html_steps.md",
+    "04_Workflows/github_sync_guide.md",
+    "04_Workflows/obsidian_publish_workflow.md",
+    "assets/css",
+    "assets/images",
+    "assets",
+    "06_Public/showcase",
+    "06_Public",
+    "05_Notes",
+    "HTML Page Test.html",
+    "00_Home/folder structure map.md",
+    "04_Workflows/n8n_automation_cheatsheet.md",
+    "03_Research/Philosophy/ontology_of_light.md",
+    "docs",
+    "03_Research/Philosophy/symbolic_language.md",
+    "03_Research/Philosophy/stoic_virtue.md",
+    "03_Research/Philosophy/metaphysics_of_identity.md",
     "03_Research/Theology/kinsman_redeemer.md",
     "00_Home/about.md",
-    "00_Home/folder structure map.md",
     "02_Projects/active_projects.md",
     "02_Projects/index.md",
-    "03_Research/Theology/marduk_and_tiamat.md",
-    "03_Research/Theology/romans_8_commentary.md",
     "03_Research/Theology/tree_of_life_genetics.md",
     "03_Research/AI/retrieval_augmented_generation.md",
     "03_Research/AI/prompt_engineering.md",
     "03_Research/AI/model_comparison.md",
     "03_Research/AI/llm_agents.md",
     "02_Projects/Project_Phoenix/references.md",
-    "03_Research/index.md",
-    "02_Projects/Project_Phoenix/progress_log.md",
-    "02_Projects/Project_Avalon/launch_plan.md",
-    "02_Projects/Project_Phoenix/overview.md",
-    "02_Projects/Project_Phoenix/goals.md",
-    "02_Projects/Project_Avalon/overview.md",
-    "02_Projects/Project_Avalon/design_notes.md",
-    "01_Journal/reflections_on_focus.md",
-    "01_Journal/weekly_summary.md",
-    "01_Journal/2025-10-19.md",
-    "02 Projects/MyriadVault Structure.md",
-    "01_Journal/2025-10-20.md",
-    "00_Home/roadmap.md",
-    "06_Public/showcase",
-    "06_Public",
-    "05_Notes",
     "04_Workflows",
-    "03_Research/Philosophy",
-    "03_Research/Theology",
-    "03_Research/AI",
-    "03_Research",
-    "02_Projects/Project_Avalon",
-    "02_Projects/Project_Phoenix"
+    "03_Research/Philosophy"
   ]
 }

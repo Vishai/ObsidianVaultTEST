@@ -31,28 +31,17 @@
             "id": "a23081711cc35bbd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d5a0e7b04328ee5b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Projects/MyriadVault Structure.md",
+                "file": "00_Home/folder structure map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyriadVault Structure"
+              "title": "folder structure map"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Research/Theology/marduk_and_tiamat.md",
+                "file": "00_Home/folder structure map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for marduk_and_tiamat"
+              "title": "Backlinks for folder structure map"
             }
           },
           {
@@ -144,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Research/Theology/marduk_and_tiamat.md",
+                "file": "00_Home/folder structure map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from marduk_and_tiamat"
+              "title": "Outgoing links from folder structure map"
             }
           },
           {
@@ -173,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Research/Theology/marduk_and_tiamat.md",
+                "file": "00_Home/folder structure map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of marduk_and_tiamat"
+              "title": "Outline of folder structure map"
             }
           }
         ]
@@ -197,14 +186,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "d405333e4ebb3684",
   "lastOpenFiles": [
+    "03_Research/Theology/kinsman_redeemer.md",
+    "00_Home/about.md",
+    "00_Home/folder structure map.md",
+    "02_Projects/active_projects.md",
+    "02_Projects/index.md",
+    "03_Research/Theology/marduk_and_tiamat.md",
+    "03_Research/Theology/romans_8_commentary.md",
     "03_Research/Theology/tree_of_life_genetics.md",
     "03_Research/AI/retrieval_augmented_generation.md",
-    "03_Research/Theology/marduk_and_tiamat.md",
     "03_Research/AI/prompt_engineering.md",
     "03_Research/AI/model_comparison.md",
     "03_Research/AI/llm_agents.md",
@@ -217,17 +213,11 @@
     "02_Projects/Project_Avalon/overview.md",
     "02_Projects/Project_Avalon/design_notes.md",
     "01_Journal/reflections_on_focus.md",
-    "02_Projects/active_projects.md",
-    "02_Projects/index.md",
     "01_Journal/weekly_summary.md",
     "01_Journal/2025-10-19.md",
     "02 Projects/MyriadVault Structure.md",
     "01_Journal/2025-10-20.md",
     "00_Home/roadmap.md",
-    "00_Home/index.md",
-    "00_Home/changelog.md",
-    "00_Home/about.md",
-    "04 Workflows/export as html.md",
     "06_Public/showcase",
     "06_Public",
     "05_Notes",

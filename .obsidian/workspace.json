@@ -202,6 +202,9 @@
   },
   "active": "d405333e4ebb3684",
   "lastOpenFiles": [
+    "03_Research/AI/model_comparison.md",
+    "03_Research/AI/retrieval_augmented_generation.md",
+    "03_Research/AI/llm_agents.md",
     "03_Research/AI/prompt_engineering.md",
     "03_Research/index.md",
     "02_Projects/Project_Phoenix/progress_log.md",
@@ -234,8 +237,6 @@
     "03_Research/AI",
     "03_Research",
     "02_Projects/Project_Avalon",
-    "02_Projects/Project_Phoenix",
-    "03 Research/index.md",
-    "Welcome.md"
+    "02_Projects/Project_Phoenix"
   ]
 }

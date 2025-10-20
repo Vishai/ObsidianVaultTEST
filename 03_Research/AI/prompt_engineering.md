@@ -44,3 +44,50 @@ Explore multiple reasoning paths:
 ```
 Generate three different approaches, then evaluate each.
 ```
+### Meta-Prompting
+Use LLM to help design better prompts for specific tasks.
+
+## Common Patterns
+
+**Information Extraction**
+```
+Extract [specific information] from the following text and format as [structure].
+```
+
+**Content Generation**
+```
+Write [content type] about [topic] for [audience] with [tone/style].
+```
+
+**Analysis and Reasoning**
+```
+Analyze [subject] considering [factors]. Provide insights on [aspects].
+```
+
+**Translation and Transformation**
+```
+Convert [input format] to [output format] while maintaining [properties].
+```
+
+## Pitfalls to Avoid
+
+1. **Over-specification**: Too many constraints can box in creativity
+2. **Assumption of Knowledge**: Model doesn't know what it doesn't know
+3. **Prompt Injection**: If using user input, sanitize carefully
+4. **Ignoring Context Window**: Manage information density
+
+## Personal Discoveries
+
+- Temperature settings matter more than expected
+- System prompts set crucial behavioral patterns
+- Negative examples ("don't do this") surprisingly effective
+- JSON mode useful for structured outputs
+
+## Tools & Resources
+
+- Anthropic's Prompt Library
+- OpenAI's Prompt Engineering Guide
+- Personal prompt template collection
+
+---
+*Related: [[llm_agents|LLM Agents]] | [[model_comparison|Model Comparison]]*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Projects/Project_Phoenix/references.md",
+                "file": "03_Research/Theology/marduk_and_tiamat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "references"
+              "title": "marduk_and_tiamat"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Projects/Project_Phoenix/references.md",
+                "file": "03_Research/Theology/marduk_and_tiamat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for references"
+              "title": "Backlinks for marduk_and_tiamat"
             }
           },
           {
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Projects/Project_Phoenix/references.md",
+                "file": "03_Research/Theology/marduk_and_tiamat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from references"
+              "title": "Outgoing links from marduk_and_tiamat"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Projects/Project_Phoenix/references.md",
+                "file": "03_Research/Theology/marduk_and_tiamat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of references"
+              "title": "Outline of marduk_and_tiamat"
             }
           }
         ]
@@ -202,10 +202,13 @@
   },
   "active": "d405333e4ebb3684",
   "lastOpenFiles": [
-    "03_Research/AI/model_comparison.md",
+    "03_Research/Theology/tree_of_life_genetics.md",
     "03_Research/AI/retrieval_augmented_generation.md",
-    "03_Research/AI/llm_agents.md",
+    "03_Research/Theology/marduk_and_tiamat.md",
     "03_Research/AI/prompt_engineering.md",
+    "03_Research/AI/model_comparison.md",
+    "03_Research/AI/llm_agents.md",
+    "02_Projects/Project_Phoenix/references.md",
     "03_Research/index.md",
     "02_Projects/Project_Phoenix/progress_log.md",
     "02_Projects/Project_Avalon/launch_plan.md",
@@ -214,7 +217,6 @@
     "02_Projects/Project_Avalon/overview.md",
     "02_Projects/Project_Avalon/design_notes.md",
     "01_Journal/reflections_on_focus.md",
-    "02_Projects/Project_Phoenix/references.md",
     "02_Projects/active_projects.md",
     "02_Projects/index.md",
     "01_Journal/weekly_summary.md",
@@ -226,8 +228,6 @@
     "00_Home/changelog.md",
     "00_Home/about.md",
     "04 Workflows/export as html.md",
-    "03 Research/Theology/marduk and tiamat.md",
-    "00 Home/index.md",
     "06_Public/showcase",
     "06_Public",
     "05_Notes",

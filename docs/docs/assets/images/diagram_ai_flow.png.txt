@@ -1,0 +1,29 @@
+# Image Placeholder: diagram_ai_flow.png
+
+**Recommended Specifications:**
+- Dimensions: 800 x 600 pixels (or larger)
+- Format: PNG
+- File size: < 1MB
+
+**Purpose:**
+Technical diagram showing AI workflow, RAG pipeline, or LLM agent architecture.
+
+**Content Suggestions:**
+- Flowchart of AI processing steps
+- RAG (Retrieval Augmented Generation) architecture
+- Agent loop diagram (perception → reasoning → action)
+- Data flow between components
+
+**Tools to Create:**
+- Excalidraw (free, hand-drawn style)
+- Mermaid diagrams (code-based)
+- Lucidchart or Draw.io
+- PowerPoint/Keynote
+- Figma
+
+**Example Elements:**
+- User Input → Embeddings → Vector DB → Retrieval → LLM → Response
+- Planning → Tool Use → Observation → Reflection → Action
+
+**To Replace This Placeholder:**
+Place your actual diagram_ai_flow.png image in this directory.

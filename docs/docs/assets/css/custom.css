@@ -1,0 +1,154 @@
+/* Custom CSS for Obsidian Vault */
+
+/* ==========================
+   Color Variables
+   ========================== */
+:root {
+  --primary-color: #2C3E50;
+  --secondary-color: #E74C3C;
+  --accent-color: #3498DB;
+  --text-color: #2C3E50;
+  --background-color: #FFFFFF;
+  --sidebar-background: #F8F9FA;
+  --border-color: #E1E4E8;
+  --code-background: #F6F8FA;
+}
+
+/* ==========================
+   Typography
+   ========================== */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.5em; }
+
+/* ==========================
+   Links
+   ========================== */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Internal links */
+.internal-link {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+/* ==========================
+   Code Blocks
+   ========================== */
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  background-color: var(--code-background);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+pre {
+  background-color: var(--code-background);
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* ==========================
+   Tables
+   ========================== */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid var(--border-color);
+  padding: 0.75em;
+  text-align: left;
+}
+
+th {
+  background-color: var(--sidebar-background);
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: var(--sidebar-background);
+}
+
+/* ==========================
+   Callouts / Blockquotes
+   ========================== */
+blockquote {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1em;
+  margin-left: 0;
+  font-style: italic;
+  color: #555;
+}
+
+/* ==========================
+   Lists
+   ========================== */
+ul, ol {
+  padding-left: 1.5em;
+  margin: 1em 0;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+/* Task lists */
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item input[type="checkbox"] {
+  margin-right: 0.5em;
+}
+
+/* ==========================
+   Responsive Design
+   ========================== */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+  
+  h1 { font-size: 2em; }
+  h2 { font-size: 1.75em; }
+  h3 { font-size: 1.5em; }
+}
+
+/* ==========================
+   Utilities
+   ========================== */
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.mt-1 { margin-top: 1em; }
+.mb-1 { margin-bottom: 1em; }

@@ -1,0 +1,43 @@
+# Image Placeholder: tree_of_life_sketch.png
+
+**Recommended Specifications:**
+- Dimensions: 600 x 800 pixels (or larger)
+- Format: PNG
+- File size: < 800KB
+
+**Purpose:**
+Visual representation of Tree of Life concept, combining theological and scientific perspectives.
+
+**Content Suggestions:**
+- Biblical Tree of Life imagery
+- Genetic/DNA helix overlay or integration
+- Symbolic connections between branches (concepts)
+- Artistic interpretation of life, growth, and interconnection
+
+**Design Approaches:**
+- Traditional artistic sketch style
+- Digital illustration
+- Hybrid sacred geometry and biology
+- Annotated diagram with explanatory text
+
+**Symbolic Elements to Consider:**
+- Root system (foundations, origins)
+- Trunk (unity, core truth)
+- Branches (diversity, expression)
+- Leaves (individual lives, concepts)
+- Fruit (outcomes, wisdom)
+- DNA/genetic patterns
+- Light/divine presence
+
+**Tools to Create:**
+- Hand sketch + scan/photograph
+- Digital art tablet (Procreate, iPad)
+- Vector graphics (Illustrator)
+- AI art generation with specific prompts
+- Photo manipulation/compositing
+
+**To Replace This Placeholder:**
+Place your actual tree_of_life_sketch.png image in this directory.
+
+**Related Notes:**
+- See [[03_Research/Theology/tree_of_life_genetics]] for conceptual background

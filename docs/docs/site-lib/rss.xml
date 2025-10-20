@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[site]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>site</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 20 Oct 2025 17:15:36 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 20 Oct 2025 17:15:28 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Untitled]]></title><link>docs/untitled.html</link><guid isPermaLink="false">docs/Untitled.md</guid><pubDate>Mon, 20 Oct 2025 17:10:28 GMT</pubDate></item><item><title><![CDATA[Untitled]]></title><link>site/untitled.html</link><guid isPermaLink="false">site/Untitled.md</guid><pubDate>Mon, 20 Oct 2025 16:50:09 GMT</pubDate></item><item><title><![CDATA[tolFavicon]]></title><description><![CDATA[<img src="assets/images/tolfavicon.png" target="_self">]]></description><link>assets/images/tolfavicon.html</link><guid isPermaLink="false">assets/images/tolFavicon.png</guid><pubDate>Mon, 20 Oct 2025 16:47:53 GMT</pubDate><enclosure url="assets/images/tolfavicon.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets/images/tolfavicon.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ToL]]></title><description><![CDATA[<img src="assets/images/tol.png" target="_self">]]></description><link>assets/images/tol.html</link><guid isPermaLink="false">assets/images/ToL.png</guid><pubDate>Mon, 20 Oct 2025 16:45:09 GMT</pubDate><enclosure url="assets/images/tol.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets/images/tol.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[treeOfLifeSketch]]></title><description><![CDATA[<img src="assets/images/treeoflifesketch.png" target="_self">]]></description><link>assets/images/treeoflifesketch.html</link><guid isPermaLink="false">assets/images/treeOfLifeSketch.png</guid><pubDate>Mon, 20 Oct 2025 16:40:08 GMT</pubDate><enclosure url="assets/images/treeoflifesketch.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets/images/treeoflifesketch.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TreeOfLife]]></title><description><![CDATA[<img src="assets/images/treeoflife.png" target="_self">]]></description><link>assets/images/treeoflife.html</link><guid isPermaLink="false">assets/images/TreeOfLife.png</guid><pubDate>Mon, 20 Oct 2025 16:39:29 GMT</pubDate><enclosure url="assets/images/treeoflife.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets/images/treeoflife.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[profile]]></title><description><![CDATA[<img src="assets/images/profile.png" target="_self">]]></description><link>assets/images/profile.html</link><guid isPermaLink="false">assets/images/profile.png</guid><pubDate>Mon, 20 Oct 2025 16:35:32 GMT</pubDate><enclosure url="assets/images/profile.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets/images/profile.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[SETUP_COMPLETE]]></title><description><![CDATA[Successfully filled out your MyriadVault with all missing example files following the folder structure defined in folder structure map.md.
+05_Notes/ - Personal notes and quick captures
+06_Public/ - Public-facing content
+06_Public/showcase/ - Portfolio and examples
+assets/ - Images and CSS resources
+assets/images/ - Image placeholders
+assets/css/ - Custom stylesheets ✅ obsidian_publish_workflow.md - Publishing guide
+✅ github_sync_guide.md - Git synchronization workflow
+✅ export_as_html_steps.md - HTML export instructions
+✅ productivity_tips.md - Time management &amp; workflows ✅ quotes.md - Inspirational quotes collection
+✅ reading_list.md - Books and articles tracker
+✅ meeting_notes.md - Meeting templates and notes
+✅ todo.md - Task management
+✅ quick_thoughts.md - Fleeting ideas and observations ✅ published_notes_index.md - Public content directory
+✅ contact.md - Contact information ✅ presentation_outline.md - Presentation templates and examples
+✅ example_thread.md - Social media thread examples
+✅ design_showcase.md - Portfolio of design work
+✅ q_and_a.md - Frequently asked questions ✅ custom.css - Custom styling for vault
+✅ theme-overrides.css - Theme customization ✅ banner.png.txt - Banner image specifications
+✅ profile.jpg.txt - Profile photo specifications
+✅ diagram_ai_flow.png.txt - AI diagram specifications
+✅ tree_of_life_sketch.png.txt - Symbolic artwork specifications
+HTML Page Test/
+├── 00_Home/ ✅ (all files present)
+├── 01_Journal/ ✅ (all files present)
+├── 02_Projects/ ✅ (all files present)
+├── 03_Research/ ✅ (all files present)
+├── 04_Workflows/ ✅ (NOW COMPLETE - 5 files)
+├── 05_Notes/ ✅ (NEW - 5 files)
+├── 06_Public/ ✅ (NEW - 6 files total)
+└── assets/ ✅ (NEW - CSS + image placeholders)
+All files include realistic, detailed example content that demonstrates:
+Proper markdown formatting
+Internal wiki-style links
+Practical workflows and templates
+Best practices for note-taking
+Integration between different sections
+Professional CSS styling Cross-references using <a data-href="wiki-links" href=".html" class="internal-link" target="_self" rel="noopener nofollow">wiki-links</a>
+Hierarchical organization
+Easy navigation between related topics Templates for common note types
+Placeholder text that's easy to replace
+Consistent formatting throughout
+The assets/images folder contains .txt files with specifications for images. These explain:
+Recommended dimensions and formats
+Design suggestions and content ideas
+Tools to create the images
+Purpose and usage context
+To add actual images: Simply create/place your images with the correct filenames (banner.png, profile.jpg, etc.) in the assets/images/ folder.Two custom CSS files provide:
+custom.css: Core styling with color variables, typography, responsive design
+theme-overrides.css: Obsidian-specific customizations, dark mode support Read through the example files
+Replace placeholder text with your content
+Adjust templates to your workflow Create or source images based on specifications
+Place them in assets/images/ folder
+Remove the .txt placeholders Adjust color variables in custom.css
+Modify fonts and spacing to preference
+Test in both light and dark modes Begin daily journaling in 01_Journal
+Track tasks in 05_Notes/todo.md
+Document projects in 02_Projects
+Build out research notes in 03_Research Follow export_as_html_steps.md
+Use github_sync_guide.md for version control
+Share content from 06_Public/ Use consistent naming conventions
+Tag notes for easy discovery
+Link related concepts together
+Regular weekly reviews Check out 04_Workflows/ for automation ideas
+Set up Git sync for backups
+Use templates for recurring note types Start small, expand gradually
+Focus on notes you'll actually use
+Let structure emerge naturally
+Review and refine regularly <br><a data-tooltip-position="top" aria-label="index" data-href="index" href="00_home/index.html" class="internal-link" target="_self" rel="noopener nofollow">Home Page</a> - Start here
+<br><a data-tooltip-position="top" aria-label="04_Workflows/productivity_tips" data-href="04_Workflows/productivity_tips" href="04_workflows/productivity_tips.html" class="internal-link" target="_self" rel="noopener nofollow">Productivity Guide</a>
+<br><a data-tooltip-position="top" aria-label="05_Notes/todo" data-href="05_Notes/todo" href="05_notes/todo.html" class="internal-link" target="_self" rel="noopener nofollow">Today's Tasks</a>
+<br><a data-tooltip-position="top" aria-label="06_Public/published_notes_index" data-href="06_Public/published_notes_index" href="06_public/published_notes_index.html" class="internal-link" target="_self" rel="noopener nofollow">Public Content</a>
+Your vault now has a complete structure with example content. Everything is ready for you to make it your own!Created: 2025-10-20
+Structure based on: folder structure map.md]]></description><link>00_home/setup_complete.html</link><guid isPermaLink="false">00_Home/SETUP_COMPLETE.md</guid><pubDate>Mon, 20 Oct 2025 16:33:19 GMT</pubDate></item><item><title><![CDATA[tree_of_life_sketch.png]]></title><link>assets/images/tree_of_life_sketch.png.html</link><guid isPermaLink="false">assets/images/tree_of_life_sketch.png.txt</guid><pubDate>Mon, 20 Oct 2025 16:30:55 GMT</pubDate></item><item><title><![CDATA[diagram_ai_flow.png]]></title><link>assets/images/diagram_ai_flow.png.html</link><guid isPermaLink="false">assets/images/diagram_ai_flow.png.txt</guid><pubDate>Mon, 20 Oct 2025 16:30:44 GMT</pubDate></item><item><title><![CDATA[banner.png]]></title><link>assets/images/banner.png.html</link><guid isPermaLink="false">assets/images/banner.png.txt</guid><pubDate>Mon, 20 Oct 2025 16:30:31 GMT</pubDate></item><item><title><![CDATA[q_and_a]]></title><description><![CDATA[Q: What is this vault about?
+A: This is my personal knowledge management system where I organize research, projects, and learning across multiple domains including AI, theology, philosophy, and productivity.Q: How do you organize your notes?
+A: I use a hybrid system combining folders, tags, and links. The folder structure (00-06) provides a high-level organization, while links create a web of connected ideas.Q: What tools do you use?
+A: Primary tool is Obsidian for note-taking. I also use n8n for automation, Git for version control, and various AI tools for research and writing assistance.Q: How do you export your vault to HTML?
+A: I use the Webpage HTML Export plugin for Obsidian. See <a data-href="04_Workflows/export_as_html_steps" href="04_workflows/export_as_html_steps.html" class="internal-link" target="_self" rel="noopener nofollow">04_Workflows/export_as_html_steps</a> for the complete process.Q: How do you keep your vault in sync?<br>
+A: Git synchronization with GitHub. Automatic commits via Obsidian Git plugin. Details in <a data-href="04_Workflows/github_sync_guide" href="04_workflows/github_sync_guide.html" class="internal-link" target="_self" rel="noopener nofollow">04_Workflows/github_sync_guide</a>.Q: What's your backup strategy?
+A: Multiple layers:
+Git repository (primary)
+GitHub remote (cloud backup)
+Local Time Machine backups
+Periodic manual exports
+Q: Can I use your notes?
+A: Public notes are shared under Creative Commons. Attribution appreciated. Private research notes are not published.Q: How do you decide what to publish?
+A: I publish notes that:
+Are sufficiently developed
+Might benefit others
+Don't contain sensitive information
+Represent my current thinking
+Q: How often do you update?
+A: Daily for personal notes and journal. Public content updated weekly or when significant progress is made.Q: How do you take notes?
+A: Depends on context:
+Reading: Highlights → summary notes → linked concepts
+Meetings: Template-based capture → action items
+Ideas: Quick thoughts → develop into full notes
+Research: Literature notes → permanent notes
+Q: What's your workflow?
+A:
+Capture ideas immediately
+Process weekly (review, connect, refine)
+Develop promising notes
+Publish polished content
+Q: How do you maintain consistency?
+A: Templates, regular review sessions, and automation where possible.Q: What is Project Phoenix?<br>
+A: See <a data-href="02_Projects/Project_Phoenix/overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">02_Projects/Project_Phoenix/overview</a> for complete details.Q: Can I collaborate?<br>
+A: Yes! See <a data-href="../contact" href="06_public/contact.html" class="internal-link" target="_self" rel="noopener nofollow">../contact</a> for collaboration opportunities.Q: How can I build something similar?
+A: Check out my workflows and guides in the 04_Workflows folder. Happy to answer specific questions.<br>Don't see your question here? Reach out via <a data-href="../contact" href="06_public/contact.html" class="internal-link" target="_self" rel="noopener nofollow">../contact</a>.
+<br><a data-href="../published_notes_index" href="06_public/published_notes_index.html" class="internal-link" target="_self" rel="noopener nofollow">../published_notes_index</a>
+<br><a data-href="presentation_outline" href="06_public/showcase/presentation_outline.html" class="internal-link" target="_self" rel="noopener nofollow">presentation_outline</a>
+<br><a data-href="04_Workflows/productivity_tips" href="04_workflows/productivity_tips.html" class="internal-link" target="_self" rel="noopener nofollow">04_Workflows/productivity_tips</a>
+]]></description><link>06_public/showcase/q_and_a.html</link><guid isPermaLink="false">06_Public/showcase/q_and_a.md</guid><pubDate>Mon, 20 Oct 2025 16:28:08 GMT</pubDate></item><item><title><![CDATA[design_showcase]]></title><description><![CDATA[Overview
+Creating a cohesive visual system for Project Phoenix, including logo, color palette, and UI components.Design Philosophy Minimalist approach
+Focus on functionality
+Accessible color contrasts
+Consistent spacing system
+Color Palette Primary: <a href=".?query=tag:2C3E50" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#2C3E50">#2C3E50</a> (Deep Blue)
+<br>Secondary: <a href=".?query=tag:E74C3C" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#E74C3C">#E74C3C</a> (Vibrant Red)
+<br>Accent: <a href=".?query=tag:3498DB" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#3498DB">#3498DB</a> (Sky Blue)
+<br>Neutral: <a href=".?query=tag:ECF0F1" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#ECF0F1">#ECF0F1</a> (Light Gray)
+<br>Text: <a href=".?query=tag:2C3E50" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#2C3E50">#2C3E50</a> (Dark Gray)
+Typography Headers: Inter Bold
+Body: Inter Regular
+Code: JetBrains Mono
+Components Navigation system
+Card layouts
+Form elements
+Button states
+Icon set
+Concept
+Creating an intuitive interface for navigating interconnected knowledge.Key Features Graph visualization of note connections
+Tag-based filtering
+Search with preview
+Reading mode optimization
+Design Decisions Dark mode first
+Generous whitespace
+Clear hierarchy
+Mobile responsive
+Landing Page Design
+Clean, focused layout that communicates value immediately.Elements Hero section with clear value proposition
+Feature highlights
+Social proof
+Clear call-to-action
+Responsive Breakpoints Mobile: &lt; 640px
+Tablet: 641-1024px
+Desktop: &gt; 1024px
+Obsidian Theme
+Created custom theme for better readability and visual appeal.Features Enhanced syntax highlighting
+Better link visibility
+Improved table styling
+Custom callout designs
+Available at: assets/css/custom.css
+Figma for mockups
+Adobe Illustrator for logos
+CSS for implementation
+Git for version control Dribbble
+Behance
+Awwwards
+GitHub design systems <br><a data-href="../published_notes_index" href="06_public/published_notes_index.html" class="internal-link" target="_self" rel="noopener nofollow">../published_notes_index</a>
+<br><a data-href="presentation_outline" href="06_public/showcase/presentation_outline.html" class="internal-link" target="_self" rel="noopener nofollow">presentation_outline</a>
+]]></description><link>06_public/showcase/design_showcase.html</link><guid isPermaLink="false">06_Public/showcase/design_showcase.md</guid><pubDate>Mon, 20 Oct 2025 16:27:28 GMT</pubDate></item><item><title><![CDATA[example_thread]]></title><description><![CDATA[Hook Tweet (1/n)
+Start with something attention-grabbing. Ask a question, share a surprising fact, or make a bold statement.Problem Setup (2/n)
+What's the challenge? Why should people care? Paint the picture.Context (3/n)
+Provide background. What's the current situation? What are people getting wrong?Key Insight #1 (4/n)
+First major point. Make it concrete and specific.Key Insight #2 (5/n)
+Second major point. Use examples or data.Key Insight #3 (6/n)
+Third major point. Connect to practical application.Actionable Takeaway (7/n)
+What can people do with this information? Give specific steps.Conclusion (8/n)
+Tie it together. Circle back to the hook. Optional CTA.🧵 1/8 Most people are using AI wrong. Here's how to get 10x better results with better prompts:2/8 The problem: Generic prompts get generic results. "Write me a blog post" gives you mediocre content that needs heavy editing.3/8 Why this happens: AI models respond to specificity. They need context, constraints, and examples to produce quality output.4/8 Insight #1: Use role-based prompting. "You are an expert technical writer..." sets the tone and expertise level.5/8 Insight #2: Provide structure. Give the AI an outline or format to follow. Show examples of what "good" looks like.6/8 Insight #3: Iterate conversationally. Don't expect perfection on the first try. Refine through dialogue.7/8 Action: Try this template:
+Role: "You are a [expert]..."
+Task: "Create a [specific output]..."
+Context: "For [audience] who needs [outcome]..."
+Constraints: "Using [format], keep it [length]"
+Example: [show sample]
+8/8 Master this and you'll save hours while producing better content. The key isn't the AI—it's how you communicate with it.Want more prompt engineering tips? Check out my research notes: [link]
+<a data-href="03_Research/AI/prompt_engineering" href="03_research/ai/prompt_engineering.html" class="internal-link" target="_self" rel="noopener nofollow">03_Research/AI/prompt_engineering</a>
+<br><a data-href="presentation_outline" href="06_public/showcase/presentation_outline.html" class="internal-link" target="_self" rel="noopener nofollow">presentation_outline</a>
+]]></description><link>06_public/showcase/example_thread.html</link><guid isPermaLink="false">06_Public/showcase/example_thread.md</guid><pubDate>Mon, 20 Oct 2025 16:26:56 GMT</pubDate></item><item><title><![CDATA[presentation_outline]]></title><description><![CDATA[
+Presentation title
+Your name
+Date
+Context/Event Hook: Engaging opening question or statement
+Context: Why this topic matters
+Roadmap: What we'll cover Current situation
+Challenges or gaps
+Why it matters
+Who it affects Historical context
+Current landscape
+Key concepts
+Related work Core idea
+How it works
+Key components
+Benefits
+Unique aspects Concrete examples
+Case studies
+Demonstrations
+Real-world applications Outcomes
+Metrics
+Success stories
+Lessons learned Obstacles encountered
+Current limitations
+Areas for improvement Next steps
+Scaling opportunities
+Open questions
+Call to action Summary of key points
+Main takeaway
+Thank you
+Q&amp;A invitation Anticipated questions
+Additional resources
+"AI-Powered Knowledge Systems: Building Your Second Brain""What if you could remember everything you've ever learned and connect ideas instantly?"Information overload, difficulty connecting ideas, knowledge silosPersonal knowledge management with AI assistanceLive demo of vault with AI integration
+<a data-href="design_showcase" href="06_public/showcase/design_showcase.html" class="internal-link" target="_self" rel="noopener nofollow">design_showcase</a>
+<br><a data-href="q_and_a" href="06_public/showcase/q_and_a.html" class="internal-link" target="_self" rel="noopener nofollow">q_and_a</a>
+]]></description><link>06_public/showcase/presentation_outline.html</link><guid isPermaLink="false">06_Public/showcase/presentation_outline.md</guid><pubDate>Mon, 20 Oct 2025 16:26:18 GMT</pubDate></item><item><title><![CDATA[contact]]></title><description><![CDATA[I'm always interested in connecting with people who share interests in AI, theology, philosophy, and knowledge management.<a data-tooltip-position="top" aria-label="mailto:contact@example.com" rel="noopener nofollow" class="external-link is-unresolved" href="mailto:contact@example.com" target="_self">contact@example.com</a>
+Twitter: @username
+LinkedIn: linkedin.com/in/username
+GitHub: github.com/username
+Prefer to discuss ideas in public? Feel free to:
+Open an issue on GitHub
+Comment on published notes
+Join community discussions AI alignment and safety
+Knowledge management systems
+Theology and ancient texts
+Philosophy of mind and consciousness
+Building tools for thinking
+Open to collaboration on:
+Research projects
+Open source tools
+Writing and content creation
+Speaking opportunities
+I typically respond within 2-3 business days. For urgent matters, please indicate this in your subject line.Considering setting up virtual office hours. Let me know if you'd be interested!
+<br><a data-href="published_notes_index" href="06_public/published_notes_index.html" class="internal-link" target="_self" rel="noopener nofollow">published_notes_index</a>
+<br><a data-href="00_Home/about" href="00_home/about.html" class="internal-link" target="_self" rel="noopener nofollow">00_Home/about</a>
+]]></description><link>06_public/contact.html</link><guid isPermaLink="false">06_Public/contact.md</guid><pubDate>Mon, 20 Oct 2025 16:26:01 GMT</pubDate></item><item><title><![CDATA[published_notes_index]]></title><description><![CDATA[Welcome to my public knowledge base! This is a curated selection of notes from my personal vault, organized by topic.This is where I share thoughts, research, and projects that might be useful to others. The content here represents my ongoing learning and thinking process.Explore my research notes on various topics:
+AI &amp; Technology: <a data-tooltip-position="top" aria-label="03_Research/AI/prompt_engineering" data-href="03_Research/AI/prompt_engineering" href="03_research/ai/prompt_engineering.html" class="internal-link" target="_self" rel="noopener nofollow">Prompt Engineering</a>, <a data-tooltip-position="top" aria-label="03_Research/AI/llm_agents" data-href="03_Research/AI/llm_agents" href="03_research/ai/llm_agents.html" class="internal-link" target="_self" rel="noopener nofollow">LLM Agents</a>
+<br>Theology: <a data-tooltip-position="top" aria-label="03_Research/Theology/kinsman_redeemer" data-href="03_Research/Theology/kinsman_redeemer" href="03_research/theology/kinsman_redeemer.html" class="internal-link" target="_self" rel="noopener nofollow">Kinsman Redeemer</a>, <a data-tooltip-position="top" aria-label="03_Research/Theology/tree_of_life_genetics" data-href="03_Research/Theology/tree_of_life_genetics" href="03_research/theology/tree_of_life_genetics.html" class="internal-link" target="_self" rel="noopener nofollow">Tree of Life &amp; Genetics</a>
+<br>Philosophy: <a data-tooltip-position="top" aria-label="03_Research/Philosophy/symbolic_language" data-href="03_Research/Philosophy/symbolic_language" href="03_research/philosophy/symbolic_language.html" class="internal-link" target="_self" rel="noopener nofollow">Symbolic Language</a>, <a data-tooltip-position="top" aria-label="03_Research/Philosophy/ontology_of_light" data-href="03_Research/Philosophy/ontology_of_light" href="03_research/philosophy/ontology_of_light.html" class="internal-link" target="_self" rel="noopener nofollow">Ontology of Light</a> <br><a data-tooltip-position="top" aria-label="02_Projects/Project_Phoenix/overview" data-href="02_Projects/Project_Phoenix/overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Phoenix</a>: Building something new
+<br><a data-tooltip-position="top" aria-label="02_Projects/Project_Avalon/overview" data-href="02_Projects/Project_Avalon/overview" href="02_projects/project_avalon/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Avalon</a>: Launch initiative <br><a data-tooltip-position="top" aria-label="showcase/presentation_outline" data-href="showcase/presentation_outline" href="06_public/showcase/presentation_outline.html" class="internal-link" target="_self" rel="noopener nofollow">Presentation Outlines</a>
+<br><a data-tooltip-position="top" aria-label="showcase/design_showcase" data-href="showcase/design_showcase" href="06_public/showcase/design_showcase.html" class="internal-link" target="_self" rel="noopener nofollow">Design Work</a>
+<br><a data-tooltip-position="top" aria-label="showcase/q_and_a" data-href="showcase/q_and_a" href="06_public/showcase/q_and_a.html" class="internal-link" target="_self" rel="noopener nofollow">Q&amp;A Sessions</a>
+<br>Check <a data-href="00_Home/changelog" href="00_home/changelog.html" class="internal-link" target="_self" rel="noopener nofollow">00_Home/changelog</a> for latest additions and changes.
+Browse by topic using the links above
+Use search to find specific content
+Check related links at the bottom of each note
+<br>Want to discuss ideas or collaborate? See <a data-href="contact" href="06_public/contact.html" class="internal-link" target="_self" rel="noopener nofollow">contact</a> for ways to reach me.Content shared under Creative Commons license unless otherwise noted.
+<br><a data-href="00_Home/about" href="00_home/about.html" class="internal-link" target="_self" rel="noopener nofollow">00_Home/about</a>
+<br><a data-href="contact" href="06_public/contact.html" class="internal-link" target="_self" rel="noopener nofollow">contact</a>
+]]></description><link>06_public/published_notes_index.html</link><guid isPermaLink="false">06_Public/published_notes_index.md</guid><pubDate>Mon, 20 Oct 2025 16:25:48 GMT</pubDate></item><item><title><![CDATA[quick_thoughts]]></title><description><![CDATA[A place for fleeting ideas, insights, and observationsIdea: Integration between AI agents and personal knowledge management
+Could create a system where AI agents have context from entire vault, enabling more intelligent assistance with projects and research.Observation: The value of atomic notes
+Breaking down complex ideas into atomic units makes it easier to recombine and synthesize new insights.Question: How does RAG compare to fine-tuning for domain-specific applications?
+Need to research trade-offs. RAG seems more flexible but may have latency issues.Insight: Symbolic language bridges technical and theological thinking
+Both domains use symbolic systems to represent complex realities. <a data-href="03_Research/Philosophy/symbolic_language" href="03_research/philosophy/symbolic_language.html" class="internal-link" target="_self" rel="noopener nofollow">03_Research/Philosophy/symbolic_language</a>Project Idea: Automated knowledge graph from vault
+Use AI to extract relationships and create visual graph of all concepts and their connections.Reading Note: Cal Newport's concept of deep work aligns with flow states
+Both emphasize sustained focus on cognitively demanding tasks.Connection: Tree of Life symbolism in Genesis and genetic code
+Both represent information systems that generate life and complexity. Fascinating parallel worth exploring more.Workflow Improvement: Use templates more consistently
+Creating standard templates saves time and ensures completeness.Philosophy: Identity and continuity through change
+What makes something "the same" across transformation? Ship of Theseus paradox.Technical: Prompt engineering as a new form of programming
+Instead of explicit instructions, we guide through examples and conversation.
+Write detailed note on AI alignment challenges
+Create visual diagram of research interests
+Build automation for daily review process
+Design better linking strategy for vault <br><a data-href="01_Journal/reflections_on_focus" href="01_journal/reflections_on_focus.html" class="internal-link" target="_self" rel="noopener nofollow">01_Journal/reflections_on_focus</a>
+<br><a data-href="quotes" href="05_notes/quotes.html" class="internal-link" target="_self" rel="noopener nofollow">quotes</a>
+<br><a data-href="todo" href="05_notes/todo.html" class="internal-link" target="_self" rel="noopener nofollow">todo</a>
+]]></description><link>05_notes/quick_thoughts.html</link><guid isPermaLink="false">05_Notes/quick_thoughts.md</guid><pubDate>Mon, 20 Oct 2025 16:25:27 GMT</pubDate></item><item><title><![CDATA[todo]]></title><description><![CDATA[
+Review Project Phoenix progress
+Update research notes on AI agents
+Write reflection in journal
+Sync vault to GitHub Complete Project Avalon design phase
+Finish reading AI alignment paper
+Update productivity workflow
+Schedule team meetings Draft technical architecture
+Research implementation options
+Create prototype mockup
+Review with stakeholders Finalize launch plan
+Prepare presentation materials
+Set up automation workflows
+Test deployment process Write notes on RAG systems
+Compare LLM models
+Document prompt patterns
+Create research summary Study n8n automation workflows
+Practice prompt engineering
+Explore Obsidian plugins
+Learn advanced markdown Write weekly reflection
+Update reading list
+Organize quotes collection
+Plan next quarter goals Clean up old notes
+Update project statuses
+Backup vault
+Review and archive completed items Research advanced AI topics
+Create comprehensive knowledge base
+Build personal website
+Write technical blog posts
+Track completed items with dates for review and satisfaction.
+<a data-href="01_Journal/weekly_summary" href="01_journal/weekly_summary.html" class="internal-link" target="_self" rel="noopener nofollow">01_Journal/weekly_summary</a>
+<br><a data-href="meeting_notes" href="05_notes/meeting_notes.html" class="internal-link" target="_self" rel="noopener nofollow">meeting_notes</a>
+<br><a data-href="04_Workflows/productivity_tips" href="04_workflows/productivity_tips.html" class="internal-link" target="_self" rel="noopener nofollow">04_Workflows/productivity_tips</a>
+]]></description><link>05_notes/todo.html</link><guid isPermaLink="false">05_Notes/todo.md</guid><pubDate>Mon, 20 Oct 2025 16:25:09 GMT</pubDate></item><item><title><![CDATA[meeting_notes]]></title><description><![CDATA[Date: YYYY-MM-DD
+Time: HH:MM
+Attendees:
+Topic: ## Agenda ## Discussion Points ## Action Items
+- [ ] ## Follow-up ## Next Meeting
+Attendees: Team leads, stakeholders
+Topic: Project Phoenix initial planning
+Defined project scope and objectives
+Identified key milestones
+Assigned initial responsibilities Draft technical specification by 10/22
+Schedule design review meeting
+Create project timeline
+Follow-up meeting scheduled for 10/29Attendees: Research team
+Topic: Latest developments in RAG systems
+Reviewed recent papers on retrieval systems
+Discussed implementation strategies
+Explored optimization techniques <a data-href="03_Research/AI/retrieval_augmented_generation" href="03_research/ai/retrieval_augmented_generation.html" class="internal-link" target="_self" rel="noopener nofollow">03_Research/AI/retrieval_augmented_generation</a>
+Older meetings can be archived monthly or quarterly.
+<br><a data-href="02_Projects/index" href="02_projects/index.html" class="internal-link" target="_self" rel="noopener nofollow">02_Projects/index</a>
+<br><a data-href="todo" href="05_notes/todo.html" class="internal-link" target="_self" rel="noopener nofollow">todo</a>
+]]></description><link>05_notes/meeting_notes.html</link><guid isPermaLink="false">05_Notes/meeting_notes.md</guid><pubDate>Mon, 20 Oct 2025 16:24:41 GMT</pubDate></item><item><title><![CDATA[reading_list]]></title><description><![CDATA[
+Deep Work by Cal Newport
+The Divine Conspiracy by Dallas Willard
+Thinking, Fast and Slow by Daniel Kahneman AI Alignment by Brian Christian
+The Alignment Problem by Brian Christian
+Superintelligence by Nick Bostrom
+Life 3.0 by Max Tegmark
+Artificial Intelligence: A Modern Approach by Russell &amp; Norvig The Language of God by Francis Collins
+Mere Christianity by C.S. Lewis
+The Cost of Discipleship by Dietrich Bonhoeffer
+Mysticism by Evelyn Underhill
+The Kingdom of God is Within You by Leo Tolstoy Atomic Habits by James Clear
+The 7 Habits of Highly Effective People by Stephen Covey
+Man's Search for Meaning by Viktor Frankl
+Meditations by Marcus Aurelius The Brothers Karamazov by Fyodor Dostoevsky
+Paradise Lost by John Milton
+Foundation Series by Isaac Asimov
+Dune by Frank Herbert The Selfish Gene by Richard Dawkins
+Gödel, Escher, Bach by Douglas Hofstadter
+The Structure of Scientific Revolutions by Thomas Kuhn "Attention Is All You Need" (Transformer paper)
+"RLHF: Reinforcement Learning from Human Feedback"
+"Chain-of-Thought Prompting"
+Add books you're interested in hereTrack finished books with completion dates and brief notes.
+Meditations by Marcus Aurelius (Jan 2025) - Powerful Stoic philosophy
+Artificial Intelligence: A Modern Approach (March 2025) - Comprehensive AI textbook
+Link to detailed notes on completed books in your vault.
+<a data-href="quotes" href="05_notes/quotes.html" class="internal-link" target="_self" rel="noopener nofollow">quotes</a>
+<br><a data-href="03_Research/index" href="03_research/index.html" class="internal-link" target="_self" rel="noopener nofollow">03_Research/index</a>
+]]></description><link>05_notes/reading_list.html</link><guid isPermaLink="false">05_Notes/reading_list.md</guid><pubDate>Mon, 20 Oct 2025 16:24:26 GMT</pubDate></item><item><title><![CDATA[quotes]]></title><description><![CDATA[
+"The impediment to action advances action. What stands in the way becomes the way."
+— Marcus Aurelius "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+— Aristotle "The best time to plant a tree was 20 years ago. The second best time is now."
+— Chinese Proverb "Tell me and I forget, teach me and I may remember, involve me and I learn."
+— Benjamin Franklin "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."
+— Brian Herbert "Any sufficiently advanced technology is indistinguishable from magic."
+— Arthur C. Clarke "The computer was born to solve problems that did not exist before."
+— Bill Gates "Writing is thinking. To write well is to think clearly. That's why it's so hard."
+— David McCullough "I write to discover what I know."
+— Flannery O'Connor "Faith is taking the first step even when you don't see the whole staircase."
+— Martin Luther King Jr. "The unexamined life is not worth living."
+— Socrates "In the beginning was the Word, and the Word was with God, and the Word was God."
+— John 1:1 "The way to get started is to quit talking and begin doing."
+— Walt Disney "Done is better than perfect."
+— Sheryl Sandberg
+Add your own favorite quotes here
+<a data-href="reading_list" href="05_notes/reading_list.html" class="internal-link" target="_self" rel="noopener nofollow">reading_list</a>
+<br><a data-href="quick_thoughts" href="05_notes/quick_thoughts.html" class="internal-link" target="_self" rel="noopener nofollow">quick_thoughts</a>
+]]></description><link>05_notes/quotes.html</link><guid isPermaLink="false">05_Notes/quotes.md</guid><pubDate>Mon, 20 Oct 2025 16:24:06 GMT</pubDate></item><item><title><![CDATA[productivity_tips]]></title><description><![CDATA[
+Dedicate specific time blocks for different tasks
+Use calendar to schedule focused work sessions
+Include buffer time between blocks
+Review and adjust weekly Work in 25-minute focused intervals
+Take 5-minute breaks
+After 4 pomodoros, take longer 15-30 minute break
+Track completed pomodoros Urgent &amp; Important: Do first
+Important, Not Urgent: Schedule
+Urgent, Not Important: Delegate
+Neither: Eliminate Create daily note each morning
+Review previous day's notes
+Set 3 key priorities
+Track accomplishments Use backlinks to connect related ideas
+Create MOCs (Maps of Content) for major topics
+Tag consistently for easy searching
+Keep atomic notes (one idea per note) Weekly review: Process inbox, update projects
+Monthly review: Assess goals, archive completed items
+Quarterly review: Big picture planning Learn essential shortcuts for your tools
+Create custom shortcuts for frequent actions
+Use command palette instead of menus Create templates for recurring note types
+Use variables for dates, times
+Include standard structure and prompts Use n8n for repetitive workflows
+Set up automatic backups
+Schedule regular syncs Block 2-4 hour sessions for focused work
+Eliminate distractions
+Turn off notifications
+Work on one task at a time Group similar tasks together
+Process emails in batches
+Schedule all meetings on specific days Work on hardest tasks when energy is highest
+Take regular breaks
+Exercise and sleep well
+Track energy patterns Close unnecessary browser tabs
+Keep desktop clean
+Regular file organization
+Unsubscribe from irrelevant emails <a data-href="n8n_automation_cheatsheet" href="04_workflows/n8n_automation_cheatsheet.html" class="internal-link" target="_self" rel="noopener nofollow">n8n_automation_cheatsheet</a>
+<br><a data-href="github_sync_guide" href="04_workflows/github_sync_guide.html" class="internal-link" target="_self" rel="noopener nofollow">github_sync_guide</a>
+<br><a data-href="01_Journal/reflections_on_focus" href="01_journal/reflections_on_focus.html" class="internal-link" target="_self" rel="noopener nofollow">01_Journal/reflections_on_focus</a>
+]]></description><link>04_workflows/productivity_tips.html</link><guid isPermaLink="false">04_Workflows/productivity_tips.md</guid><pubDate>Mon, 20 Oct 2025 16:23:55 GMT</pubDate></item><item><title><![CDATA[export_as_html_steps]]></title><description><![CDATA[Step-by-step guide to export your Obsidian vault as HTML files.
+Open Obsidian Settings
+Navigate to Community Plugins
+Browse and search for "Webpage HTML Export"
+Click Install
+Enable the plugin Open plugin settings
+Configure export options: Include inline styles
+Export linked notes
+Image handling
+Custom CSS
+Navigation options Open the note you want to export
+Open command palette (Cmd/Ctrl + P)
+Type "Export as HTML"
+Select "Export current file"
+Choose destination folder Open command palette
+Select "Export vault as HTML"
+Configure export settings
+Select output directory
+Wait for export to complete Create custom CSS in assets/css/
+Reference in plugin settings
+Export with custom CSS applied Test HTML files in browser
+Verify all links work
+Check image paths
+Upload to web server GitHub Pages
+Netlify
+Vercel
+Traditional web hosting
+Set up automatic exports:
+Use n8n workflow
+Schedule regular exports
+Auto-deploy to hosting Test locally before deploying
+Use relative paths for portability
+Optimize images for web
+Consider mobile responsiveness <a data-href="obsidian_publish_workflow" href="04_workflows/obsidian_publish_workflow.html" class="internal-link" target="_self" rel="noopener nofollow">obsidian_publish_workflow</a>
+<br><a data-href="n8n_automation_cheatsheet" href="04_workflows/n8n_automation_cheatsheet.html" class="internal-link" target="_self" rel="noopener nofollow">n8n_automation_cheatsheet</a>
+]]></description><link>04_workflows/export_as_html_steps.html</link><guid isPermaLink="false">04_Workflows/export_as_html_steps.md</guid><pubDate>Mon, 20 Oct 2025 16:23:36 GMT</pubDate></item><item><title><![CDATA[github_sync_guide]]></title><description><![CDATA[Keep your Obsidian vault synchronized with GitHub for backup and collaboration.# macOS
+brew install git # Verify installation
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+cd /path/to/your/vault
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/repo-name.git
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "Update notes"
+git push
+git pull origin main Install Obsidian Git plugin
+Configure auto-commit settings
+Set sync interval
+Create a sync script:#!/bin/bash
+cd /path/to/vault
+git add .
+git commit -m "Auto-sync $(date)"
+git push
+# Edit crontab
+crontab -e # Add sync every hour
+0 * * * * /path/to/sync-script.sh Commit frequently with descriptive messages
+Use .gitignore for sensitive files
+Create branches for experimental work
+Regular backups beyond Git
+Create .gitignore:.obsidian/workspace*
+.obsidian/cache
+.DS_Store
+*.tmp
+git status
+# Edit conflicting files
+git add .
+git commit -m "Resolve conflicts"
+git push
+git reset --hard HEAD <a data-href="productivity_tips" href="04_workflows/productivity_tips.html" class="internal-link" target="_self" rel="noopener nofollow">productivity_tips</a>
+<br><a data-href="obsidian_publish_workflow" href="04_workflows/obsidian_publish_workflow.html" class="internal-link" target="_self" rel="noopener nofollow">obsidian_publish_workflow</a>
+]]></description><link>04_workflows/github_sync_guide.html</link><guid isPermaLink="false">04_Workflows/github_sync_guide.md</guid><pubDate>Mon, 20 Oct 2025 16:23:21 GMT</pubDate></item><item><title><![CDATA[obsidian_publish_workflow]]></title><description><![CDATA[This guide covers the process of publishing your Obsidian vault content to the web.
+Obsidian installed and configured
+Git repository set up (optional)
+Publishing platform selected (Obsidian Publish, GitHub Pages, etc.) Enable Obsidian Publish plugin
+Select notes to publish
+Configure publish settings
+Push to live site Export vault as HTML/Markdown
+Use static site generator (Hugo, Jekyll, 11ty)
+Deploy to hosting platform Install Webpage HTML Export plugin
+Configure export settings
+Export individual notes or entire vault
+Upload to web server Review content before publishing
+Check internal links
+Optimize images for web
+Set appropriate permissions
+Update regularly <a data-href="export_as_html_steps" href="04_workflows/export_as_html_steps.html" class="internal-link" target="_self" rel="noopener nofollow">export_as_html_steps</a>
+<br><a data-href="github_sync_guide" href="04_workflows/github_sync_guide.html" class="internal-link" target="_self" rel="noopener nofollow">github_sync_guide</a>
+]]></description><link>04_workflows/obsidian_publish_workflow.html</link><guid isPermaLink="false">04_Workflows/obsidian_publish_workflow.md</guid><pubDate>Mon, 20 Oct 2025 16:23:10 GMT</pubDate></item><item><title><![CDATA[HTML Page Test]]></title><link>html-page-test.html</link><guid isPermaLink="false">HTML Page Test.html</guid><pubDate>Mon, 20 Oct 2025 16:19:35 GMT</pubDate></item><item><title><![CDATA[n8n_automation_cheatsheet]]></title><description><![CDATA[n8n is a powerful workflow automation tool that connects apps and services. This cheatsheet covers essential concepts and common patterns.
+Trigger Nodes: Start workflows (Webhook, Schedule, Manual)
+Action Nodes: Perform operations (HTTP Request, Database, etc.)
+Logic Nodes: Control flow (IF, Switch, Merge) Drag from output to input
+Multiple connections allowed
+Data flows between nodes Manual: Test button
+Automatic: Based on triggers
+View history in executions panel
+Webhook → Process Data → Send Response Use for API endpoints
+Returns data to caller
+GET or POST methods
+Cron Schedule → Fetch Data → Process → Store Use for periodic tasks
+Cron syntax: 0 9 * * 1-5 (9 AM weekdays)
+Timezone considerations
+Manual → Test Workflow → Debug Use for development
+Great for testing
+Click "Execute Workflow"
+{ "method": "GET", "url": "https://api.example.com/data", "authentication": "Header Auth", "headers": { "Authorization": "Bearer {{$credentials.apiKey}}" }
+}
+// Access input data
+const items = $input.all(); // Process each item
+return items.map(item =&gt; { return { json: { processed: item.json.value * 2, timestamp: new Date().toISOString() } };
+});
+Condition: {{$json.status}} equals "active"
+- True → Continue workflow
+- False → Different path or stop {{$json.fieldName}} - Current item
+{{$node["NodeName"].json.field}} - From specific node
+{{$input.first().json.data}} - First input item {{new Date().toISOString()}} - Current timestamp
+{{$json.amount * 1.1}} - Math operations
+{{$json.name.toLowerCase()}} - String methods
+Webhook → Transform Data → Database Insert → Return Success
+Schedule → HTTP Request → Parse HTML → Store → Notify
+Email Trigger → Parse Content → IF Logic → Send Email → Log
+Service A → Transform → Service B ↓ Service C Use IF nodes to check conditions
+Add error workflows
+Log errors to database or file
+Set up notifications for failures Minimize HTTP requests
+Batch operations when possible
+Use pagination for large datasets
+Consider rate limits Name nodes descriptively
+Group related workflows
+Use sticky notes for documentation
+Version control with git Use credentials, not hardcoded keys
+Validate webhook inputs
+Sanitize user data
+Enable webhook authentication Click node to see output
+Check JSON tab
+Review executions panel
+Use pinned data for testing "No items": Previous node returned empty
+Expression errors: Check syntax with {{}}
+Credential issues: Verify authentication
+Timeout: Increase timeout or optimize
+// Create page in Notion
+{ "parent": { "database_id": "xxx" }, "properties": { "Title": { "title": [{"text": {"content": "{{$json.title}}"}}] } }
+}
+Create note → Format Markdown → POST to Obsidian Local REST API
+Webhook (Push) → Parse Commit → Notify Team → Update Dashboard <a data-tooltip-position="top" aria-label="https://docs.n8n.io" rel="noopener nofollow" class="external-link is-unresolved" href="https://docs.n8n.io" target="_self">n8n Documentation</a>
+<br><a data-tooltip-position="top" aria-label="https://community.n8n.io" rel="noopener nofollow" class="external-link is-unresolved" href="https://community.n8n.io" target="_self">Community Forum</a>
+<br><a data-tooltip-position="top" aria-label="https://n8n.io/workflows" rel="noopener nofollow" class="external-link is-unresolved" href="https://n8n.io/workflows" target="_self">Workflow Templates</a> Ctrl/Cmd + S - Save workflow
+Ctrl/Cmd + E - Execute node
+Ctrl/Cmd + A - Select all
+Delete - Delete selected String: Text data
+Number: Numeric values
+Boolean: true/false
+Object: Nested JSON
+Array: Lists of items
+<br>Tags: <a href=".?query=tag:automation" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#automation">#automation</a> <a href=".?query=tag:n8n" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#n8n">#n8n</a> <a href=".?query=tag:workflow" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#workflow">#workflow</a> <a href=".?query=tag:integration" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#integration">#integration</a> <a href=".?query=tag:productivity" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#productivity">#productivity</a>]]></description><link>04_workflows/n8n_automation_cheatsheet.html</link><guid isPermaLink="false">04_Workflows/n8n_automation_cheatsheet.md</guid><pubDate>Mon, 20 Oct 2025 16:15:37 GMT</pubDate></item><item><title><![CDATA[ontology_of_light]]></title><description><![CDATA[Light occupies a unique position in philosophy, theology, and physics—serving as both a physical phenomenon and a profound metaphor for truth, knowledge, and divine presence.
+Light behaves as both wave and particle
+Quantum superposition
+Observer effect in measurement
+Implications for epistemology Universal constant: c = 299,792,458 m/s
+Nothing travels faster
+Time dilation at relativistic speeds
+Light as cosmic speed limit Shadows vs. reality
+Ascent to the light
+Enlightenment as liberation
+Philosopher-king must return Illumination and understanding
+Revelation vs. discovery
+Dispelling darkness/ignorance
+Public vs. hidden knowledge Maurice Merleau-Ponty
+Light makes seeing possible
+Often unnoticed while enabling vision
+Transparency and presence Genesis 1:3 - "Let there be light" (before sun and stars)
+John 1:4-5 - "The light shines in the darkness"
+John 8:12 - "I am the light of the world"
+1 John 1:5 - "God is light" Divine essence
+Transfiguration (Matthew 17)
+Eastern Orthodox theology
+Distinctions from created light Photosynthesis as basis of life
+Light as prerequisite for vision
+Circadian rhythms
+Biological necessity Truth, revelation, knowledge
+Purity, holiness, goodness
+Hope, life, awakening
+Divine presence, glory (Shekinah) Good vs. evil
+Knowledge vs. ignorance
+Life vs. death
+Order vs. chaos Big Bang as cosmic dawn
+Electromagnetic spectrum
+Light as information carrier
+"Fiat lux" and modern cosmology Transformation of materiality
+Glorified bodies
+New creation bathed in light
+No need for sun (Revelation 21:23) If God is light, why darkness?
+Privation theory (Augustine)
+Theodicy challenges
+Free will and shadows How do we know we see truly?
+Light as revealer vs. concealer
+Limitations of human perception
+Divine illumination (Augustine, Aquinas) Light in fiber optics
+Photons carrying data
+Light-speed communication
+Quantum computing Modern excess
+Loss of darkness
+Environmental impact
+Need for sabbath rest <a data-tooltip-position="top" aria-label="symbolic_language" data-href="symbolic_language" href="03_research/philosophy/symbolic_language.html" class="internal-link" target="_self" rel="noopener nofollow">Symbolic Language</a>
+<br><a data-tooltip-position="top" aria-label="metaphysics_of_identity" data-href="metaphysics_of_identity" href="03_research/philosophy/metaphysics_of_identity.html" class="internal-link" target="_self" rel="noopener nofollow">Metaphysics of Identity</a>
+Divine attributes
+Natural theology The Republic by Plato (Book VII)
+Confessions by Augustine
+Being and Time by Heidegger
+Works on quantum mechanics
+<br>Tags: <a href=".?query=tag:philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#philosophy">#philosophy</a> <a href=".?query=tag:ontology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#ontology">#ontology</a> <a href=".?query=tag:theology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#theology">#theology</a> <a href=".?query=tag:metaphysics" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#metaphysics">#metaphysics</a> <a href=".?query=tag:light" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#light">#light</a>]]></description><link>03_research/philosophy/ontology_of_light.html</link><guid isPermaLink="false">03_Research/Philosophy/ontology_of_light.md</guid><pubDate>Mon, 20 Oct 2025 16:15:07 GMT</pubDate></item><item><title><![CDATA[symbolic_language]]></title><description><![CDATA[Symbolic language serves as a bridge between concrete reality and abstract truth, allowing finite minds to grasp infinite concepts.
+Historical events and facts
+Surface-level narrative
+Foundational but not exhaustive Deeper patterns and types
+Archetypal meanings
+Universal truths Ultimate spiritual realities
+Eschatological fulfillment
+Transcendent meaning Light: Knowledge, divine presence, truth
+Water: Life, cleansing, chaos, spirit
+Fire: Purification, judgment, divine presence
+Bread: Sustenance, Word of God, body of Christ
+Vine/Tree: Life, covenant relationship, growth Three: Divine completeness, Trinity
+Seven: Perfection, completion
+Twelve: God's people, governance
+Forty: Testing, trial, transformation Eisegesis vs. exegesis
+Finding meaning not intended
+Losing historical grounding Respect for literal meaning
+Openness to symbolic depth
+Community interpretation
+Historical-grammatical + theological reading Signifier vs. signified
+Arbitrary nature of signs
+Structural relationships Charles Sanders Peirce
+Icon, index, symbol
+Interpretant and object Sacramental theology
+Enacted symbols
+Participation in mystery Visual symbols
+Musical symbolism
+Architectural sacred geometry Personal symbolism
+Cultural symbols
+Biblical dream interpretation Adam → Christ (Romans 5)
+Exodus → Salvation (1 Corinthians 10)
+Tabernacle → Christ's body (John 2:19-21)
+Passover → Crucifixion (1 Corinthians 5:7) Based on historical reality
+Confirmed by Scripture
+Christ-centered
+Theologically coherent Metaphorical language
+Cultural symbols
+Brand and identity Jungian archetypes
+Symbol as integrative function
+Personal and collective unconscious Symbols are not magic
+Context determines meaning
+Cultural relativity
+Can obscure as well as reveal <a data-tooltip-position="top" aria-label="ontology_of_light" data-href="ontology_of_light" href="03_research/philosophy/ontology_of_light.html" class="internal-link" target="_self" rel="noopener nofollow">Ontology of Light</a>
+<br><a data-tooltip-position="top" aria-label="metaphysics_of_identity" data-href="metaphysics_of_identity" href="03_research/philosophy/metaphysics_of_identity.html" class="internal-link" target="_self" rel="noopener nofollow">Metaphysics of Identity</a>
+Hermeneutics
+Allegory vs. typology
+<br>Tags: <a href=".?query=tag:philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#philosophy">#philosophy</a> <a href=".?query=tag:hermeneutics" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#hermeneutics">#hermeneutics</a> <a href=".?query=tag:symbolism" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#symbolism">#symbolism</a> <a href=".?query=tag:language" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#language">#language</a> <a href=".?query=tag:theology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#theology">#theology</a>]]></description><link>03_research/philosophy/symbolic_language.html</link><guid isPermaLink="false">03_Research/Philosophy/symbolic_language.md</guid><pubDate>Mon, 20 Oct 2025 16:13:48 GMT</pubDate></item><item><title><![CDATA[stoic_virtue]]></title><description><![CDATA[
+Wisdom (Sophia) - Understanding what is truly good
+Courage (Andreia) - Facing challenges with strength
+Justice (Dikaiosyne) - Giving each their due
+Temperance (Sophrosyne) - Self-control and moderation In our control: Judgments, impulses, desires, aversions
+Not in our control: Body, property, reputation, status
+Focus energy only on what you can control Nature as rational and providential
+Human nature as rational beings
+Virtue as living in harmony with logos Love of fate
+Embracing what happens
+"Not merely to endure but to love necessity" Negative visualization
+Imagining worst-case scenarios
+Reduces anxiety, increases gratitude Remember you will die
+Urgency without panic
+Perspective on what matters Former slave, later teacher
+Enchiridion (The Handbook)
+"It's not what happens to you, but how you react" Roman Emperor
+Meditations - personal journal
+Leadership through virtue Statesman and dramatist
+Letters from a Stoic
+Practical wisdom for daily life Contemplate the day ahead
+Prepare for challenges
+Affirm commitment to virtue What did I do well?
+What could I improve?
+What challenges did I face? Journaling
+Contemplation of sage
+View from above (cosmic perspective) Risk of emotional suppression
+Tension with Christian emotion (joy, grief)
+Balance: Stoic wisdom + Christian hope Parallels with Christian virtue
+Providence and sovereignty
+Endurance and perseverance (James 1:2-4)
+Self-control as fruit of Spirit (Galatians 5:22-23) Meditations by Marcus Aurelius
+Enchiridion by Epictetus
+Letters from a Stoic by Seneca
+The Obstacle is the Way by Ryan Holiday
+Tags: <a href=".?query=tag:philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#philosophy">#philosophy</a> <a href=".?query=tag:stoicism" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#stoicism">#stoicism</a> <a href=".?query=tag:virtue" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#virtue">#virtue</a> <a href=".?query=tag:ethics" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#ethics">#ethics</a> <a href=".?query=tag:wisdom" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#wisdom">#wisdom</a>]]></description><link>03_research/philosophy/stoic_virtue.html</link><guid isPermaLink="false">03_Research/Philosophy/stoic_virtue.md</guid><pubDate>Mon, 20 Oct 2025 16:13:31 GMT</pubDate></item><item><title><![CDATA[metaphysics_of_identity]]></title><description><![CDATA[What constitutes personal identity? What makes you "you" across time and change?
+Mind and body as separate substances
+"I think, therefore I am"
+Identity rooted in the thinking subject No persistent self, only bundles of perceptions
+Identity as a convenient fiction
+Challenge: accounting for continuity Memory and consciousness as basis of identity
+The thought experiment of the prince and the cobbler
+Problems: false memories, fading memories Self as a story we tell
+Integration of past, present, and future
+Character development through time Body as essential to selfhood
+Phenomenological considerations
+Disability studies perspectives Identity grounded in being image-bearers of God
+Relational ontology
+Eschatological transformation while maintaining continuity Same person, glorified body
+1 Corinthians 15:35-58
+Continuity amid radical transformation Ship of Theseus: If all parts are replaced, is it the same ship?
+Teletransportation: Would a perfect copy be you?
+Split Brain: What happens to identity when the corpus callosum is severed? Moral responsibility across time
+Personal transformation and redemption
+End-of-life decisions
+Understanding memory and dementia <a data-tooltip-position="top" aria-label="ontology_of_light" data-href="ontology_of_light" href="03_research/philosophy/ontology_of_light.html" class="internal-link" target="_self" rel="noopener nofollow">Ontology of Light</a>
+<br><a data-tooltip-position="top" aria-label="symbolic_language" data-href="symbolic_language" href="03_research/philosophy/symbolic_language.html" class="internal-link" target="_self" rel="noopener nofollow">Symbolic Language</a>
+Personal eschatology
+<br>Tags: <a href=".?query=tag:philosophy" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#philosophy">#philosophy</a> <a href=".?query=tag:metaphysics" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#metaphysics">#metaphysics</a> <a href=".?query=tag:identity" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#identity">#identity</a> <a href=".?query=tag:personhood" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#personhood">#personhood</a>]]></description><link>03_research/philosophy/metaphysics_of_identity.html</link><guid isPermaLink="false">03_Research/Philosophy/metaphysics_of_identity.md</guid><pubDate>Mon, 20 Oct 2025 16:12:57 GMT</pubDate></item><item><title><![CDATA[kinsman_redeemer]]></title><description><![CDATA[The concept of the kinsman redeemer (Hebrew: go'el) is a powerful theological theme throughout Scripture, finding its ultimate fulfillment in Christ.
+Leviticus 25:25-28 - Land redemption laws
+Ruth 3-4 - Boaz as kinsman redeemer
+Isaiah 59:20 - The Redeemer will come to Zion Must be a blood relative
+Must be able to pay the price
+Must be willing to redeem
+Must be free himself Incarnation: Became human to be our kinsman (Hebrews 2:14-17)
+Ability: Had the resources to pay (sinless life, divine nature)
+Willingness: Chose to redeem us (Philippians 2:5-8)
+Freedom: Not under bondage to sin (Hebrews 4:15) Demonstrates God's covenant faithfulness
+Shows the necessity of the Incarnation
+Illustrates substitutionary atonement
+Reveals God's redemptive plan from beginning to end <a data-tooltip-position="top" aria-label="tree_of_life_genetics" data-href="tree_of_life_genetics" href="03_research/theology/tree_of_life_genetics.html" class="internal-link" target="_self" rel="noopener nofollow">Tree of Life &amp; Genetics</a>
+<br><a data-tooltip-position="top" aria-label="romans_8_commentary" data-href="romans_8_commentary" href="03_research/theology/romans_8_commentary.html" class="internal-link" target="_self" rel="noopener nofollow">Romans 8 Commentary</a>
+Adoption theology
+Blood covenant How does the kinsman redeemer law reveal God's heart for restoration?
+What are the parallels between Boaz and Christ?
+How does this concept inform our understanding of redemption?
+<br>Tags: <a href=".?query=tag:theology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#theology">#theology</a> <a href=".?query=tag:redemption" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#redemption">#redemption</a> <a href=".?query=tag:typology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#typology">#typology</a> <a href=".?query=tag:christology" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#christology">#christology</a>]]></description><link>03_research/theology/kinsman_redeemer.html</link><guid isPermaLink="false">03_Research/Theology/kinsman_redeemer.md</guid><pubDate>Mon, 20 Oct 2025 16:12:41 GMT</pubDate></item><item><title><![CDATA[folder structure map]]></title><description><![CDATA[MyriadVault/
+│
+├── 00_Home/
+│ ├── index.md
+│ ├── about.md
+│ ├── changelog.md
+│ └── roadmap.md
+│
+├── 01_Journal/
+│ ├── 2025-10-20.md
+│ ├── 2025-10-19.md
+│ ├── reflections_on_focus.md
+│ └── weekly_summary.md
+│
+├── 02_Projects/
+│ ├── Project_Phoenix/
+│ │ ├── overview.md
+│ │ ├── goals.md
+│ │ ├── progress_log.md
+│ │ └── references.md
+│ ├── Project_Avalon/
+│ │ ├── overview.md
+│ │ ├── design_notes.md
+│ │ └── launch_plan.md
+│ ├── index.md
+│ └── active_projects.md
+│
+├── 03_Research/
+│ ├── AI/
+│ │ ├── prompt_engineering.md
+│ │ ├── llm_agents.md
+│ │ ├── retrieval_augmented_generation.md
+│ │ └── model_comparison.md
+│ ├── Theology/
+│ │ ├── marduk_and_tiamat.md
+│ │ ├── tree_of_life_genetics.md
+│ │ ├── romans_8_commentary.md
+│ │ └── kinsman_redeemer.md
+│ ├── Philosophy/
+│ │ ├── metaphysics_of_identity.md
+│ │ ├── stoic_virtue.md
+│ │ ├── symbolic_language.md
+│ │ └── ontology_of_light.md
+│ └── index.md
+│
+├── 04_Workflows/
+│ ├── n8n_automation_cheatsheet.md
+│ ├── obsidian_publish_workflow.md
+│ ├── github_sync_guide.md
+│ ├── export_as_html_steps.md
+│ └── productivity_tips.md
+│
+├── 05_Notes/
+│ ├── quotes.md
+│ ├── reading_list.md
+│ ├── meeting_notes.md
+│ ├── todo.md
+│ └── quick_thoughts.md
+│
+├── 06_Public/
+│ ├── showcase/
+│ │ ├── presentation_outline.md
+│ │ ├── example_thread.md
+│ │ ├── design_showcase.md
+│ │ └── q_and_a.md
+│ ├── published_notes_index.md
+│ └── contact.md
+│
+└── assets/
+├── images/
+│ ├── banner.png
+│ ├── profile.jpg
+│ ├── diagram_ai_flow.png
+│ └── tree_of_life_sketch.png
+└── css/
+├── custom.css
+└── theme-overrides.css]]></description><link>00_home/folder-structure-map.html</link><guid isPermaLink="false">00_Home/folder structure map.md</guid><pubDate>Mon, 20 Oct 2025 16:10:59 GMT</pubDate></item><item><title><![CDATA[romans_8_commentary]]></title><description><![CDATA[Romans 8 is considered by many to be the theological pinnacle of Paul's letter to the Romans. After establishing justification by faith (chapters 1-5) and wrestling with sin and law (chapters 6-7), chapter 8 explodes with hope.No Condemnation (v1)
+"There is therefore now no condemnation for those who are in Christ Jesus."This isn't moral relativism - it's completed justification. The verdict is in, and it's favorable. Not because of merit, but because of Christ.Spirit vs Flesh (v5-8)
+Not body vs soul dualism. "Flesh" (sarx) means human effort and self-reliance. "Spirit" means divine empowerment and dependence on God.Adoption (v15-17)
+We're not just servants but children. "Abba" - intimate family language. Co-heirs with Christ.Cosmic Redemption
+All creation subjected to futility, eagerly awaiting liberation. Entropy, decay, death - not the final word.Birth Pangs
+Pain with purpose. Suffering that leads to newness. Not arbitrary but transformative.Hope
+We hope for what we don't yet see. Faith bridges present pain and future glory.Even prayer is beyond us. The Spirit translates our inarticulate longing into communication with God.All Things Work Together
+Not "everything happens for a reason" (cheap fatalism). Rather: God can work redemptively with anything, even tragedy.Predestination
+Controversial. Corporate election? Individual predetermination? Both? Neither? Mystery remains.Golden Chain
+Foreknew → Predestined → Called → Justified → Glorified. Notice past tense even for future events. From God's perspective, it's done.Nothing Can Separate
+Death, life, angels, demons, present, future, powers, height, depth, anything in all creation - NOTHING.Not a list of things that theoretically couldn't but practically don't. A list of things that actually try and fail.This chapter transformed my understanding of:Security
+Not based on maintaining position but on being held in position.Suffering
+Not meaningless or punitive. Birth pangs of new creation.Prayer
+Can be honest about weakness. Spirit translates.Hope
+Anchored in Christ's completed work, not my fluctuating feelings.
+How does divine sovereignty and human responsibility coexist?
+What does creation's groaning mean for ecological theology?
+Is the "not yet" aspect of salvation under-emphasized in modern teaching?
+Related: <a data-tooltip-position="top" aria-label="kinsman_redeemer" data-href="kinsman_redeemer" href="03_research/theology/kinsman_redeemer.html" class="internal-link" target="_self" rel="noopener nofollow">Kinsman Redeemer</a> | <a data-tooltip-position="top" aria-label="../Philosophy/stoic_virtue" data-href="../Philosophy/stoic_virtue" href="03_research/philosophy/stoic_virtue.html" class="internal-link" target="_self" rel="noopener nofollow">Stoic Virtue</a>]]></description><link>03_research/theology/romans_8_commentary.html</link><guid isPermaLink="false">03_Research/Theology/romans_8_commentary.md</guid><pubDate>Mon, 20 Oct 2025 16:07:17 GMT</pubDate></item><item><title><![CDATA[tree_of_life_genetics]]></title><description><![CDATA[Genesis presents two special trees: Tree of Life and Tree of Knowledge of Good and Evil. After eating from the knowledge tree, humans are barred from the life tree "lest they become like God."
+Immortality symbol
+Divine presence
+Restoration goal
+Eschatological hope
+What if the Tree of Life is a metaphor for genetic information and biological continuity?Branching Structure
+Phylogenetic trees map evolution
+Common descent from single origin
+Continuous life through reproduction
+Information passing through generations
+Knowledge and Mortality
+Self-awareness (knowledge) brings death awareness
+Animals "live" without knowing they'll die
+Human consciousness includes temporal finitude
+Knowledge of death changes life's meaning
+Eating the Fruit
+Incorporating external information
+Transformation through knowledge
+Irreversible change
+Loss of innocence = gain of consciousness
+Individual organisms die, but life persists. DNA is literally the "tree" connecting all living things through time.The knowledge that made us human also made us mortal (in consciousness).
+We know we're temporary, which shapes everything.Revelation's New Jerusalem has the Tree of Life restored. Could this symbolize:
+Integration of knowledge and immortality?
+Consciousness without death anxiety?
+Eternal life with awareness intact?
+Somatic cells die, but germline cells persist through reproduction. We are each a temporary expression of an immortal genetic lineage.DNA preserves information across death boundaries. The code continues even as individual hardware fails.All life shares common ancestry. The Tree of Life is real - it's the evolutionary history connecting every organism.Identity Questions
+Am I my consciousness or my genetic information?
+Does "I" continue in my descendants?
+Is biological immortality sufficient?
+Meaning Questions
+Does mortality give life meaning?
+Would immortal consciousness be desirable?
+Is the goal eternal life or eternal love?
+Perhaps the ancient myth and modern genetics point to the same truth: life is a continuous informational process that transcends individual instances. Death is real at the personal level but illusory at the level of life itself.Related: <a data-tooltip-position="top" aria-label="marduk_and_tiamat" data-href="marduk_and_tiamat" href="03_research/theology/marduk_and_tiamat.html" class="internal-link" target="_self" rel="noopener nofollow">Chaos and Order</a> | <a data-tooltip-position="top" aria-label="../Philosophy/ontology_of_light" data-href="../Philosophy/ontology_of_light" href="03_research/philosophy/ontology_of_light.html" class="internal-link" target="_self" rel="noopener nofollow">Ontology of Light</a>]]></description><link>03_research/theology/tree_of_life_genetics.html</link><guid isPermaLink="false">03_Research/Theology/tree_of_life_genetics.md</guid><pubDate>Mon, 20 Oct 2025 16:05:45 GMT</pubDate></item><item><title><![CDATA[marduk_and_tiamat]]></title><description><![CDATA[The Babylonian creation myth tells of Marduk's battle with Tiamat, the primordial chaos dragon. This isn't merely ancient mythology - it's a sophisticated metaphysical framework.
+Primordial chaos
+Salt water (feminine principle)
+Undifferentiated potential
+Mother of gods Order and sovereignty
+Storm god
+Divine warrior
+Creator through conquest
+Marduk slays Tiamat and splits her body to create heaven and earth. From chaos comes order. From undifferentiated potential comes structured reality.Unlike Genesis's "speaking into being," Enuma Elish presents creation as violent ordering of chaos. This pattern echoes throughout ancient Near Eastern thought.Marduk's victory establishes divine sovereignty. Order isn't inherent - it's won, maintained, defended.Tiamat is split, not annihilated. Chaos remains part of cosmic structure. Order contains and shapes chaos rather than eliminating it.
+Leviathan and Rahab (chaos monsters)
+God's sovereignty over waters
+Creation by divine word (different method, similar result) Logos bringing order from chaos
+Christ's cosmic victory
+New creation from old
+Psychological
+Marduk as conscious ego, Tiamat as unconscious chaos. Individuation requires integrating shadow.Political
+Myth legitimizes authority structure. Divine mandate for earthly kingship.Cosmological
+Ancient science in mythic form. How does order emerge from disorder?The tension between order and chaos isn't resolved by elimination but by creative structuring. This resonates with:
+Information theory (entropy vs organization)
+Complexity science (emergence of order)
+Creative process (form from formlessness)
+Perhaps the deepest truth in this myth: creation is ongoing. Order must be continually renewed against entropy.
+How does this relate to other creation-through-conflict myths?
+What's the relationship between political power and creation theology?
+Can we read this ecologically - order vs chaos in nature?
+Related: <a data-tooltip-position="top" aria-label="tree_of_life_genetics" data-href="tree_of_life_genetics" href="03_research/theology/tree_of_life_genetics.html" class="internal-link" target="_self" rel="noopener nofollow">Tree of Life</a> | <a data-tooltip-position="top" aria-label="../Philosophy/metaphysics_of_identity" data-href="../Philosophy/metaphysics_of_identity" href="03_research/philosophy/metaphysics_of_identity.html" class="internal-link" target="_self" rel="noopener nofollow">Metaphysics</a>]]></description><link>03_research/theology/marduk_and_tiamat.html</link><guid isPermaLink="false">03_Research/Theology/marduk_and_tiamat.md</guid><pubDate>Mon, 20 Oct 2025 16:05:12 GMT</pubDate></item><item><title><![CDATA[model_comparison]]></title><description><![CDATA[Claude 4 Sonnet (Anthropic)
+Strengths: Reasoning, coding, following instructions, long context
+Weaknesses: Occasional over-cautiousness
+Best for: Complex analysis, thoughtful dialogue, extended contexts
+GPT-4 (OpenAI)
+Strengths: General capability, broad knowledge, creativity
+Weaknesses: Can be verbose, occasional hallucinations
+Best for: Wide variety of tasks, creative writing
+Gemini (Google)
+Strengths: Multimodal, search integration, factual queries
+Weaknesses: Less consistent personality
+Best for: Research, fact-checking, visual tasks
+Llama 3 (Meta)
+Strengths: Open source, customizable, good performance/cost
+Weaknesses: Requires infrastructure
+Best for: Custom deployments, privacy-critical applications Accuracy on benchmarks
+Reasoning capability
+Code generation quality
+Factual reliability Cost per token
+API reliability
+Rate limits
+Latency Context window size
+Multimodal support
+Function calling
+Streaming
+Claude: Default for research, analysis, and writing
+GPT-4: Creative brainstorming and when I need different perspective
+Gemini: Fact-checking and visual analysis
+Llama: Experiments and learning about model internals]]></description><link>03_research/ai/model_comparison.html</link><guid isPermaLink="false">03_Research/AI/model_comparison.md</guid><pubDate>Mon, 20 Oct 2025 16:03:45 GMT</pubDate></item><item><title><![CDATA[retrieval_augmented_generation]]></title><description><![CDATA[RAG combines language model generation with information retrieval. Instead of relying solely on training data, the model fetches relevant information at query time.
+Knowledge Cutoffs: Access to current information
+Hallucination: Ground responses in retrieved facts
+Domain Specificity: Incorporate specialized knowledge
+Transparency: Can cite sources Training data becomes stale
+Can't access private/proprietary information
+Struggles with very specific facts
+No source attribution
+Query → Retrieval → Augmentation → Generation → Response
+Vector Search
+Convert query to embedding
+Search vector database
+Retrieve top-k similar documents
+Hybrid Search
+Combine semantic and keyword search
+Better coverage Format retrieved documents
+Add to prompt context
+Provide source metadata LLM generates response
+Uses retrieved context
+Cites sources when appropriate
+Simple: retrieve → stuff into prompt → generate
+Query rewriting
+Multi-step retrieval
+Relevance filtering
+Context compression Multi-turn retrieval
+Self-correction
+Tool use for verification Pinecone
+Weaviate
+Chroma
+Qdrant OpenAI ada-002
+Sentence Transformers
+Cohere embeddings Fixed size (e.g., 512 tokens)
+Semantic splitting (paragraphs)
+Recursive character splitting
+Sliding windows with overlap Better embeddings
+Hybrid search
+Query expansion
+Metadata filtering Prompt engineering
+Context compression
+Reranking results
+Citation formatting Retrieval Quality: Garbage in, garbage out
+Context Window: Limited space for retrieved docs
+Latency: Retrieval adds time
+Cost: Vector DB + LLM calls
+Stale Indices: Need regular updates Customer support bots
+Research assistants
+Documentation Q&amp;A
+Legal document analysis
+Medical literature search
+Related: <a data-tooltip-position="top" aria-label="llm_agents" data-href="llm_agents" href="03_research/ai/llm_agents.html" class="internal-link" target="_self" rel="noopener nofollow">LLM Agents</a> | <a data-tooltip-position="top" aria-label="../../02_Projects/Project_Phoenix/overview" data-href="../../02_Projects/Project_Phoenix/overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Phoenix</a>]]></description><link>03_research/ai/retrieval_augmented_generation.html</link><guid isPermaLink="false">03_Research/AI/retrieval_augmented_generation.md</guid><pubDate>Mon, 20 Oct 2025 16:03:33 GMT</pubDate></item><item><title><![CDATA[llm_agents]]></title><description><![CDATA[LLM agents are autonomous systems that use language models to reason, plan, and take actions toward goals. Unlike simple chatbots, agents can:
+Break down complex tasks
+Use tools and APIs
+Maintain state across interactions
+Learn from feedback
+The LLM itself, responsible for:
+Understanding goals
+Planning steps
+Deciding actions
+Interpreting results
+Short-term Memory
+Current conversation context
+Recent actions and results
+Active goals and plans
+Long-term Memory
+Past interactions and patterns
+Learned preferences
+Domain knowledge
+Ability to call external functions:
+Web search
+Code execution
+API interactions
+File system operations
+1. Observe current state
+2. Reason about what to do
+3. Select and execute action
+4. Evaluate results
+5. Update plan if needed
+6. Repeat until goal achieved
+Interleaves reasoning and action. Agent explicitly articulates thought process.Forces explicit reasoning steps before action.Self-reflection and learning from mistakes.Autonomous task decomposition and execution.Agents can misuse tools or chain them incorrectly. Requires robust error handling.Long-running agents may lose sight of original objective. Need constant goal checking.Agents can confidently report false information. Verification mechanisms critical.Memory constraints require selective information retention.Multiple LLM calls can get expensive quickly.
+Research assistants
+Coding collaborators
+Task automation
+Data analysis
+Content creation pipelines Multi-agent collaboration
+Improved planning algorithms
+Better memory systems
+Reduced latency
+Lower costs
+Related: <a data-tooltip-position="top" aria-label="prompt_engineering" data-href="prompt_engineering" href="03_research/ai/prompt_engineering.html" class="internal-link" target="_self" rel="noopener nofollow">Prompt Engineering</a> | <a data-tooltip-position="top" aria-label="retrieval_augmented_generation" data-href="retrieval_augmented_generation" href="03_research/ai/retrieval_augmented_generation.html" class="internal-link" target="_self" rel="noopener nofollow">RAG</a>]]></description><link>03_research/ai/llm_agents.html</link><guid isPermaLink="false">03_Research/AI/llm_agents.md</guid><pubDate>Mon, 20 Oct 2025 16:03:12 GMT</pubDate></item><item><title><![CDATA[prompt_engineering]]></title><description><![CDATA[Prompt engineering is the practice of designing effective inputs for large language models to achieve desired outputs. It's both art and science - requiring understanding of model capabilities, task structure, and iterative refinement.Vague prompts yield vague results. Be explicit about:
+What you want
+Format of desired output
+Constraints and requirements
+Context needed
+Few-shot learning works remarkably well. Provide 2-3 examples of desired behavior.Breaking complex tasks into steps improves accuracy dramatically. Use phrases like "Let's approach this systematically" or "Think through this step by step."Assigning an expert role can improve quality: "As an experienced software architect..." or "As a constitutional scholar..."First prompt rarely optimal. Test, analyze, adjust.Encourage reasoning process visibility:Solve this problem and show your reasoning at each step.
+Embed principles and constraints:Provide analysis while adhering to: [principles]
+Explore multiple reasoning paths:Generate three different approaches, then evaluate each.
+Use LLM to help design better prompts for specific tasks.Information ExtractionExtract [specific information] from the following text and format as [structure].
+Content GenerationWrite [content type] about [topic] for [audience] with [tone/style].
+Analysis and ReasoningAnalyze [subject] considering [factors]. Provide insights on [aspects].
+Translation and TransformationConvert [input format] to [output format] while maintaining [properties]. Over-specification: Too many constraints can box in creativity
+Assumption of Knowledge: Model doesn't know what it doesn't know
+Prompt Injection: If using user input, sanitize carefully
+Ignoring Context Window: Manage information density Temperature settings matter more than expected
+System prompts set crucial behavioral patterns
+Negative examples ("don't do this") surprisingly effective
+JSON mode useful for structured outputs Anthropic's Prompt Library
+OpenAI's Prompt Engineering Guide
+Personal prompt template collection
+Related: <a data-tooltip-position="top" aria-label="llm_agents" data-href="llm_agents" href="03_research/ai/llm_agents.html" class="internal-link" target="_self" rel="noopener nofollow">LLM Agents</a> | <a data-tooltip-position="top" aria-label="model_comparison" data-href="model_comparison" href="03_research/ai/model_comparison.html" class="internal-link" target="_self" rel="noopener nofollow">Model Comparison</a>]]></description><link>03_research/ai/prompt_engineering.html</link><guid isPermaLink="false">03_Research/AI/prompt_engineering.md</guid><pubDate>Mon, 20 Oct 2025 16:02:37 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Deep dives into LLMs, agent architectures, prompt engineering, and the future of human-AI collaboration.Exploring ancient texts, metaphysical frameworks, and the intersection of faith and reason.Investigating fundamental questions of existence, knowledge, ethics, and meaning.One of the most exciting aspects of research is discovering unexpected bridges between domains:
+AI alignment ↔ Moral philosophy
+Information theory ↔ Theological concepts of logos
+Symbolic systems ↔ Ancient metaphysical frameworks
+Computational thinking ↔ Classical logic Follow Curiosity: Interest is the best guide
+Connect Concepts: Look for patterns across domains
+Question Assumptions: Especially your own
+Document Journey: Capture both insights and confusions
+Share Generously: Knowledge compounds through sharing How does retrieval augmented generation change research methodology?
+What can ancient theological metaphysics teach us about modern AI alignment?
+How do different philosophical frameworks shape our approach to technology?
+View all research notes by tag: <a href=".?query=tag:research" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#research">#research</a>]]></description><link>03_research/index.html</link><guid isPermaLink="false">03_Research/index.md</guid><pubDate>Mon, 20 Oct 2025 16:00:36 GMT</pubDate></item><item><title><![CDATA[launch_plan]]></title><description><![CDATA[
+Vision and principles documented
+Core feature set defined
+Technical architecture designed
+Wireframes completed Domain registration
+Hosting environment
+Development pipeline
+CI/CD automation User authentication
+Basic knowledge spaces
+Discussion threads
+Simple contribution scoring Invite 20-30 trusted users
+Gather intensive feedback
+Iterate rapidly
+Refine quality mechanisms Discovery engine
+Advanced search
+Mobile optimization
+Moderation tools Invite-only expansion to 200-300 users
+Focus on community culture
+Monitor quality metrics
+Adjust algorithms Performance optimization
+Security audit
+Content moderation team
+Community guidelines finalization Thought leadership content
+Strategic partnerships
+Press outreach
+Organic community building Quality: Average post length, citation rate, discourse level
+Engagement: Active daily users, return rate, time spent
+Growth: New member retention, organic referrals
+Health: Conflict resolution rate, moderation load
+Back to <a data-tooltip-position="top" aria-label="overview" data-href="overview" href="02_projects/project_avalon/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Overview</a>]]></description><link>02_projects/project_avalon/launch_plan.html</link><guid isPermaLink="false">02_Projects/Project_Avalon/launch_plan.md</guid><pubDate>Mon, 20 Oct 2025 16:00:08 GMT</pubDate></item><item><title><![CDATA[design_notes]]></title><description><![CDATA[Organized areas for different research domains. Each space has:
+Core concepts (wiki-style)
+Active discussions (forum-style)
+Resource library
+Member directory
+Contribution Scoring
+Not just upvotes/downvotes
+Weighted by expertise and track record
+Emphasizes thoughtfulness over speed
+Rewards citations and nuance
+Slow Mode
+Deliberate friction to prevent reactive posting
+Encourage editing and refinement
+Built-in "sleep on it" features
+Help users find:
+Related concepts across spaces
+Conversations matching their interests
+Potential collaborators
+Gaps in collective knowledge Pseudonymous by default (optional real names)
+Granular privacy controls
+Strong moderation tools
+Anti-harassment mechanisms Interest survey and calibration
+Guided tour of spaces
+"Lurk first" encouragement
+Progressive permissions Advanced search and filtering
+Custom feeds and alerts
+API access for research
+Data export capabilities Scalable architecture (start small, grow smart)
+Mobile-responsive but desktop-optimized
+Fast load times critical
+Accessibility as priority
+Back to <a data-tooltip-position="top" aria-label="overview" data-href="overview" href="02_projects/project_avalon/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Overview</a>]]></description><link>02_projects/project_avalon/design_notes.html</link><guid isPermaLink="false">02_Projects/Project_Avalon/design_notes.md</guid><pubDate>Mon, 20 Oct 2025 15:58:58 GMT</pubDate></item><item><title><![CDATA[overview]]></title><description><![CDATA[Create a community platform that enables collaborative research while maintaining high signal-to-noise ratio through intelligent curation and quality mechanisms.Online discourse often descends into low-quality noise. Academic platforms are too rigid. Social media is too chaotic. We need something in between.Project Avalon combines:
+Structured Knowledge: Wiki-like organization
+Community Input: Reddit-style discussions
+Quality Curation: Algorithmic and human-moderated
+Research Focus: Built for deep work, not hot takes Quality Over Quantity: Better to have 100 thoughtful members than 10,000 casual users
+Intellectual Humility: Design encourages "I don't know" and changing minds
+Cross-Pollination: Intentionally surface ideas across disciplinary boundaries
+Privacy-Respecting: No unnecessary data collection or surveillance Independent researchers
+Serious learners and autodidacts
+Professionals seeking peer exchange
+Anyone committed to intellectual growth
+Unlike existing platforms:
+Not purely academic (more accessible)
+Not purely social (more structured)
+Not purely wiki (more dynamic)
+Built for synthesis, not just archival
+See: <a data-tooltip-position="top" aria-label="design_notes" data-href="design_notes" href="02_projects/project_avalon/design_notes.html" class="internal-link" target="_self" rel="noopener nofollow">Design Notes</a> | <a data-tooltip-position="top" aria-label="launch_plan" data-href="launch_plan" href="02_projects/project_avalon/launch_plan.html" class="internal-link" target="_self" rel="noopener nofollow">Launch Plan</a>]]></description><link>02_projects/project_avalon/overview.html</link><guid isPermaLink="false">02_Projects/Project_Avalon/overview.md</guid><pubDate>Mon, 20 Oct 2025 15:58:46 GMT</pubDate></item><item><title><![CDATA[references]]></title><description><![CDATA[
+"Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs" (Malkov &amp; Yashunin, 2018)
+Pinecone Documentation: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://docs.pinecone.io" target="_self">https://docs.pinecone.io</a> "Attention Is All You Need" (Vaswani et al., 2017)
+OpenAI Embeddings Guide
+Anthropic API Documentation for Claude "Knowledge Graphs" (Hogan et al., 2021)
+Neo4j Graph Database Documentation LangChain for LLM orchestration
+Weaviate vector database comparison
+FastAPI for Python backend
+n8n for workflow automation Andy Matuschak's notes on evergreen notes
+Niklas Luhmann's Zettelkasten method
+Vannevar Bush's "As We May Think" (1945) <br><a data-tooltip-position="top" aria-label="../../03_Research/AI/retrieval_augmented_generation" data-href="../../03_Research/AI/retrieval_augmented_generation" href="03_research/ai/retrieval_augmented_generation.html" class="internal-link" target="_self" rel="noopener nofollow">RAG Research Notes</a>
+<br><a data-tooltip-position="top" aria-label="../../04_Workflows/n8n_automation_cheatsheet" data-href="../../04_Workflows/n8n_automation_cheatsheet" href="04_workflows/n8n_automation_cheatsheet.html" class="internal-link" target="_self" rel="noopener nofollow">n8n Automation Guide</a>
+<br>Back to <a data-tooltip-position="top" aria-label="overview" data-href="overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Overview</a>]]></description><link>02_projects/project_phoenix/references.html</link><guid isPermaLink="false">02_Projects/Project_Phoenix/references.md</guid><pubDate>Mon, 20 Oct 2025 15:58:34 GMT</pubDate></item><item><title><![CDATA[progress_log]]></title><description><![CDATA[
+✅ Finalized vector database selection (going with Pinecone)
+✅ Set up development environment
+✅ Created initial data pipeline for note ingestion
+✅ Tested embedding generation with 100 sample notes 🔄 Architecture design for semantic relationship mapping
+🔄 Prototype of connection scoring algorithm Embedding quality is critical; spent time tuning chunking strategy
+Need to handle different note types differently (journal vs research)
+Performance considerations: batch processing vs real-time Complete architecture document
+Begin implementation of core relationship engine
+Set up automated testing pipeline ✅ Requirements gathering and documentation
+✅ Competitive analysis of existing tools
+✅ Initial technical spike on vector databases
+✅ Team alignment meeting Scope creep temptation - staying focused on MVP
+Balancing sophistication with speed Defined project vision and goals
+Assembled team and resources
+Created initial roadmap
+Back to <a data-tooltip-position="top" aria-label="overview" data-href="overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Overview</a>]]></description><link>02_projects/project_phoenix/progress_log.html</link><guid isPermaLink="false">02_Projects/Project_Phoenix/progress_log.md</guid><pubDate>Mon, 20 Oct 2025 15:58:25 GMT</pubDate></item><item><title><![CDATA[goals]]></title><description><![CDATA[Replace manual linking with intelligent semantic relationship detection. Success = 80% of meaningful connections found automatically.Enable insights that span multiple research areas (AI + Theology + Philosophy). Success = 10+ valuable cross-domain insights per month.Reduce time from question to insight. Success = 50% reduction in research time for complex questions.Highlight areas needing deeper exploration. Success = Quarterly identification of 3-5 promising research directions.System should learn user preferences and improve over time. Success = Increasing relevance of suggestions.All processing local or encrypted. Success = Zero compromise on data privacy.
+Social features (not a collaboration tool)
+Content creation (suggestions only, not generation)
+General-purpose AI assistant (focused on knowledge synthesis)
+These goals ladder up to the broader vision of augmenting human intelligence rather than replacing it.Back to <a data-tooltip-position="top" aria-label="overview" data-href="overview" href="02_projects/project_phoenix/overview.html" class="internal-link" target="_self" rel="noopener nofollow">Project Overview</a>]]></description><link>02_projects/project_phoenix/goals.html</link><guid isPermaLink="false">02_Projects/Project_Phoenix/goals.md</guid><pubDate>Mon, 20 Oct 2025 15:58:06 GMT</pubDate></item><item><title><![CDATA[overview]]></title><description><![CDATA[Build an AI-powered knowledge synthesis system that automatically discovers meaningful connections between research notes, identifies patterns across domains, and surfaces insights that would be difficult to find manually.As knowledge bases grow, manual connection-making becomes unsustainable. Information exists in silos, and valuable cross-domain insights remain hidden. Current tools offer linking, but require human identification of relationships.Project Phoenix uses advanced LLM techniques to:
+Analyze semantic relationships between notes
+Identify conceptual bridges across different domains
+Generate synthesis documents highlighting emergent patterns
+Suggest new research directions based on knowledge gaps Note ingestion and indexing
+Vector embeddings generation
+Basic similarity search Semantic relationship mapping
+Cross-domain connection discovery
+Pattern recognition algorithms Automated insight generation
+Knowledge gap identification
+Research direction suggestions Vector DB: Pinecone or Weaviate
+LLM: Claude 4 Sonnet via API
+Backend: Python with FastAPI
+Frontend: React with TypeScript
+Automation: n8n workflows Number of valuable connections discovered
+Time saved in research process
+Quality of generated insights (subjective)
+User engagement with suggestions
+Related: <a data-tooltip-position="top" aria-label="goals" data-href="goals" href="02_projects/project_phoenix/goals.html" class="internal-link" target="_self" rel="noopener nofollow">Project Goals</a> | <a data-tooltip-position="top" aria-label="progress_log" data-href="progress_log" href="02_projects/project_phoenix/progress_log.html" class="internal-link" target="_self" rel="noopener nofollow">Progress Log</a> | <a data-tooltip-position="top" aria-label="references" data-href="references" href="02_projects/project_phoenix/references.html" class="internal-link" target="_self" rel="noopener nofollow">References</a>]]></description><link>02_projects/project_phoenix/overview.html</link><guid isPermaLink="false">02_Projects/Project_Phoenix/overview.md</guid><pubDate>Mon, 20 Oct 2025 15:57:39 GMT</pubDate></item><item><title><![CDATA[active_projects]]></title><description><![CDATA[Last Updated: October 20, 2025
+Progress: 65%
+This Week: Architecture design and initial prototyping
+Next Milestone: Working prototype by Oct 31
+Blockers: None
+Notes: Great momentum, ahead of schedule Progress: 25%
+This Week: Design research and competitive analysis
+Next Milestone: Design document by Nov 15
+Blockers: Need clarity on hosting infrastructure
+Notes: Exciting potential, taking time to get foundation right Project Quantum (Nov 2025) - Early planning phase
+Personal Website Redesign (Dec 2025) <a data-tooltip-position="top" aria-label="../04_Workflows/project_management_system" data-href="../04_Workflows/project_management_system" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Project Management System</a>
+<br><a data-tooltip-position="top" aria-label="../05_Notes/meeting_notes" data-href="../05_Notes/meeting_notes" href="05_notes/meeting_notes.html" class="internal-link" target="_self" rel="noopener nofollow">Meeting Notes</a> What moved forward this week?
+What's blocking progress?
+What needs to be reprioritized?
+What can be delegated or eliminated?
+]]></description><link>02_projects/active_projects.html</link><guid isPermaLink="false">02_Projects/active_projects.md</guid><pubDate>Mon, 20 Oct 2025 15:57:19 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Status: Phase 2 - Architecture Design
+Priority: High
+Timeline: Q4 2025A comprehensive AI-powered knowledge synthesis system that automatically discovers connections between disparate research domains.Status: Phase 1 - Design &amp; Planning
+Priority: Medium
+Timeline: Q1 2026Community platform for collaborative research and knowledge sharing with built-in quality curation mechanisms.Status: Paused
+Reason: Awaiting external dependencyInitial vault structure and workflow automationPersonal productivity system overhaulView <a data-tooltip-position="top" aria-label="active_projects" data-href="active_projects" href="02_projects/active_projects.html" class="internal-link" target="_self" rel="noopener nofollow">Active Projects Dashboard</a> for detailed status]]></description><link>02_projects/index.html</link><guid isPermaLink="false">02_Projects/index.md</guid><pubDate>Mon, 20 Oct 2025 15:57:10 GMT</pubDate></item><item><title><![CDATA[weekly_summary]]></title><description><![CDATA[Week of October 13-19, 2025. A productive week with significant progress on multiple fronts.
+Project Phoenix reached Phase 2 milestone
+Completed research on LLM agent architectures
+Presented findings to team, well-received
+Started design phase for Project Avalon Maintained daily journaling streak (78 days!)
+Completed 4 deep work sessions
+Read 2 books, started 1 more
+Quality family time on weekend Deep dive into retrieval augmented generation
+New insights on theological metaphysics
+Discovered connection between stoic philosophy and modern productivity Struggled with afternoon energy dips
+Too many meetings on Wednesday disrupted flow
+Need better system for processing saved articles Deep Work Hours: 18
+Books Read: 2
+Journal Entries: 7
+New Notes Created: 23
+Notes Connected: 47 The compound effect of daily practices is becoming visible
+Cross-domain learning creates unexpected connections
+Rest is productive - weekend reflection time yielded breakthrough Complete Project Avalon design document
+Implement new workflow automation
+Reduce meeting load by 30%
+Start spaced repetition system for key concepts
+Previous: <a data-tooltip-position="top" aria-label="weekly_summary_2025-10-12" data-href="weekly_summary_2025-10-12" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Week 41</a> | Next: Week 43]]></description><link>01_journal/weekly_summary.html</link><guid isPermaLink="false">01_Journal/weekly_summary.md</guid><pubDate>Mon, 20 Oct 2025 15:56:57 GMT</pubDate></item><item><title><![CDATA[reflections_on_focus]]></title><description><![CDATA[In an age of infinite distraction, maintaining deep focus has become a superpower. But it's not just about blocking out noise - it's about choosing signal.Focus isn't unlimited. It's a finite resource that depletes and needs recovery time. Understanding my personal energy rhythms has been transformative:
+Peak hours: 6am - 9am
+Secondary peak: 2pm - 4pm Low energy: 11am - 1pm, after 7pm
+Every switch between tasks carries a cognitive cost. The research suggests 20-25 minutes to fully re-engage with deep work after an interruption.Solution: Time blocking and batch processing similar tasks.Physical space dramatically impacts mental state. My best work happens in:
+Quiet, organized spaces
+Morning natural light
+With specific instrumental music
+Phone in another room Morning Pages: Julia Cameron's practice of stream-of-consciousness writing clears mental clutter
+Pomodoro Technique: 25-minute focused sprints with 5-minute breaks
+Digital Sunset: No screens after 8pm (still working on this)
+Single-Tasking: One tab, one document, one thing
+Why do we struggle with focus? Perhaps because we're unclear about what truly matters. Focus isn't just a technique - it's an expression of values.Related: <a data-tooltip-position="top" aria-label="05_Notes/productivity_tips" data-href="05_Notes/productivity_tips" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Productivity Tips</a>]]></description><link>01_journal/reflections_on_focus.html</link><guid isPermaLink="false">01_Journal/reflections_on_focus.md</guid><pubDate>Mon, 20 Oct 2025 15:56:29 GMT</pubDate></item><item><title><![CDATA[2025-10-19]]></title><description><![CDATA[Saturday morning. Taking time to step back and look at the bigger picture. What are we really building here?
+Organized research notes from the past week
+Read through saved articles on RAG systems
+Family time in the afternoon
+Evening walk - captured several voice memos with ideas
+The integration between different knowledge domains is where the magic happens. AI research informs theological understanding, which shapes philosophical inquiry, which circles back to better AI implementation.
+Started reading "The Alignment Problem" by Brian Christian
+Saved article on retrieval augmented generation for later study
+Re-reading sections of Romans 8 with fresh perspective
+Grateful for unstructured time to think. The pressure to constantly produce can overshadow the importance of reflection.Energy: 7/10
+Focus: 6/10
+Mood: Contemplative
+Continue with Project Phoenix architecture
+Review weekly goals
+]]></description><link>01_journal/2025-10-19.html</link><guid isPermaLink="false">01_Journal/2025-10-19.md</guid><pubDate>Mon, 20 Oct 2025 15:55:16 GMT</pubDate></item><item><title><![CDATA[2025-10-20]]></title><description><![CDATA[Woke up with clarity about the direction of Project Phoenix. The overnight processing seems to have crystallized the approach we need to take. Starting the day with a focused work session on the core architecture.
+Reviewed Project Phoenix documentation
+Created vault structure for MyriadVault
+Team standup meeting
+Research session on prompt engineering techniques
+Weekly review preparation
+On Focus: Noticed that my best work happens in the first 3 hours of the day. Need to protect this time more aggressively and schedule meetings for afternoon.On Learning: The connection between prompt engineering and theological hermeneutics is fascinating. Both involve careful interpretation and context management.Productive day overall. The structure is coming together nicely. Feeling energized about the possibilities ahead.Tomorrow's focus: Deep work on Project Avalon design phase.Energy: 8/10
+Focus: 9/10
+Mood: Optimistic
+<a data-tooltip-position="top" aria-label="Project_Phoenix/progress_log" data-href="Project_Phoenix/progress_log" href="02_projects/project_phoenix/progress_log.html" class="internal-link" target="_self" rel="noopener nofollow">Project Progress</a>
+<br><a data-tooltip-position="top" aria-label="03_Research/AI/prompt_engineering" data-href="03_Research/AI/prompt_engineering" href="03_research/ai/prompt_engineering.html" class="internal-link" target="_self" rel="noopener nofollow">Prompt Engineering Notes</a>
+]]></description><link>01_journal/2025-10-20.html</link><guid isPermaLink="false">01_Journal/2025-10-20.md</guid><pubDate>Mon, 20 Oct 2025 15:54:59 GMT</pubDate></item><item><title><![CDATA[roadmap]]></title><description><![CDATA[Transform MyriadVault into a comprehensive personal knowledge ecosystem that seamlessly integrates research, creativity, and productivity.
+Implement automated daily review system
+Create templates for common note types
+Establish publishing pipeline for selected research
+Build custom dashboard for project tracking Develop connection map visualization
+Add audio note integration
+Create mobile capture workflow
+Implement spaced repetition for key concepts Explore AI-assisted note suggestions
+Add collaborative features for select projects
+Create video content from research notes Advanced search and query system
+Integration with task management tools
+Automated bibliography generation
+Public API for vault statistics Machine learning model trained on personal notes
+Virtual assistant for vault navigation
+Cross-vault collaboration network
+Published book from vault content
+Roadmap is reviewed and updated monthly]]></description><link>00_home/roadmap.html</link><guid isPermaLink="false">00_Home/roadmap.md</guid><pubDate>Mon, 20 Oct 2025 15:54:48 GMT</pubDate></item><item><title><![CDATA[changelog]]></title><description><![CDATA[
+Created MyriadVault structure
+Added example files across all directories
+Established cross-linking between related notes
+Set up initial workflow documentation Reorganized research notes into AI, Theology, and Philosophy categories
+Added Project Avalon design notes
+Updated weekly journal summary format Implemented new tagging system
+Created showcase section for public content
+Added CSS customization for better readability Initial vault structure created
+Migrated notes from previous system
+Set up GitHub sync workflow Project Phoenix kickoff
+Created first automated workflow with n8n
+Established daily journaling habit
+View <a data-tooltip-position="top" aria-label="roadmap" data-href="roadmap" href="00_home/roadmap.html" class="internal-link" target="_self" rel="noopener nofollow">Roadmap</a> for planned improvements]]></description><link>00_home/changelog.html</link><guid isPermaLink="false">00_Home/changelog.md</guid><pubDate>Mon, 20 Oct 2025 15:53:39 GMT</pubDate></item><item><title><![CDATA[about]]></title><description><![CDATA[MyriadVault is a personal knowledge management system designed to capture, organize, and connect ideas across multiple domains of interest. The name "Myriad" reflects the countless connections and insights that emerge when knowledge is properly structured.This vault operates on several key principles:
+Atomic Notes: Each note focuses on a single idea or concept
+Progressive Summarization: Information is layered from raw to refined
+Linking Over Hierarchy: Ideas connect across folder boundaries
+Future-Proof: Plain text ensures longevity and portability 00_Home: Central hub and navigation
+01_Journal: Time-based personal reflections
+02_Projects: Goal-oriented work in progress
+03_Research: Deep exploration of specific topics
+04_Workflows: Systems and processes
+05_Notes: Quick capture and temporary holding
+06_Public: Curated content for external sharing
+This vault is designed to work with:
+Obsidian (primary interface)
+n8n (automation workflows)
+GitHub (version control)
+Obsidian Publish (public sharing)
+For questions or collaboration, see <a data-tooltip-position="top" aria-label="06_Public/contact" data-href="06_Public/contact" href="06_public/contact.html" class="internal-link" target="_self" rel="noopener nofollow">Contact Information</a>.]]></description><link>00_home/about.html</link><guid isPermaLink="false">00_Home/about.md</guid><pubDate>Mon, 20 Oct 2025 15:53:30 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Welcome to your personal knowledge management system. This vault is designed to help you organize thoughts, projects, research, and workflows in a structured and accessible way.
+<a data-tooltip-position="top" aria-label="01_Journal/index" data-href="01_Journal/index" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Journal</a> - Daily reflections and weekly summaries
+<br><a data-tooltip-position="top" aria-label="02_Projects/index" data-href="02_Projects/index" href="02_projects/index.html" class="internal-link" target="_self" rel="noopener nofollow">Projects</a> - Active and archived project documentation
+<br><a data-tooltip-position="top" aria-label="03_Research/index" data-href="03_Research/index" href="03_research/index.html" class="internal-link" target="_self" rel="noopener nofollow">Research</a> - Deep dives into AI, Theology, and Philosophy
+<br><a data-tooltip-position="top" aria-label="04_Workflows/index" data-href="04_Workflows/index" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Workflows</a> - Process documentation and productivity systems
+<br><a data-tooltip-position="top" aria-label="05_Notes/index" data-href="05_Notes/index" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Notes</a> - Quick captures, quotes, and meeting notes
+<br><a data-tooltip-position="top" aria-label="06_Public/index" data-href="06_Public/index" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Public</a> - Content prepared for sharing Added new research on prompt engineering
+Updated Project Phoenix progress log
+Created workflow automation guide
+<br>If you're new here, start with the <a data-tooltip-position="top" aria-label="about" data-href="about" href="00_home/about.html" class="internal-link" target="_self" rel="noopener nofollow">About</a> page to understand the structure and philosophy behind this vault.Last updated: October 20, 2025]]></description><link>00_home/index.html</link><guid isPermaLink="false">00_Home/index.md</guid><pubDate>Mon, 20 Oct 2025 15:53:19 GMT</pubDate></item></channel></rss>
